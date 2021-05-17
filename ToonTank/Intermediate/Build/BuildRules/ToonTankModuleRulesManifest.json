@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\Source\\ToonTank\\ToonTank.Build.cs",
+		"C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\Source\\ToonTank.Target.cs",
+		"C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\Source\\ToonTankEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

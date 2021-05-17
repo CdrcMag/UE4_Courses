@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ToonTank",
+			"Path": "C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\Source\\ToonTank.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ToonTankEditor",
+			"Path": "C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\Source\\ToonTankEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
