@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 
-#include "PawnBase.h"
+#include "ToonTank/Pawns/PawnBase.h"
 
 // Sets default values
 APawnBase::APawnBase()
@@ -9,12 +9,12 @@ APawnBase::APawnBase()
  	// Set this pawn to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
-	CapsuleComponent = CreateDefaultSubobject<UCapsuleComponent>(TEXT("Capsule Collider"));
+	CapsuleComp = CreateDefaultSubobject<UCapsuleComponent>(TEXT("Capsule Collider"));
 
-	//RootComponent = CapsuleComponent;
+	RootComponent = CapsuleComp;
 
-	//BaseMesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("Base Mesh"));
-	//BaseMesh->SetupAttachment(RootComponent);
+	BaseMesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("Base Mesh"));
+	BaseMesh->SetupAttachment(RootComponent);
 }
 
 // Called when the game starts or when spawned

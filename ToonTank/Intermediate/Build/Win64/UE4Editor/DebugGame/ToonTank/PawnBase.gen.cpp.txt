@@ -1,0 +1,5 @@
+C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Intermediate\Build\Win64\UE4Editor\DebugGame\ToonTank\Definitions.ToonTank.h
+D:\Documents\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Documents\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Source\ToonTank/Pawns/PawnBase.h
+C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Intermediate\Build\Win64\UE4Editor\Inc\ToonTank\PawnBase.generated.h

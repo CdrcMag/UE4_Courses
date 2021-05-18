@@ -16,7 +16,7 @@ class TOONTANK_API APawnBase : public APawn
 private:
 
 	UPROPERTY()
-	UCapsuleComponent* CapsuleComponent;
+	UCapsuleComponent* CapsuleComp;
 	UPROPERTY()
 	UStaticMeshComponent* BaseMesh;
 	UPROPERTY()

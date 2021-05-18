@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ToonTank-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Intermediate\Build\Win64\ToonTankEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Intermediate\Build\Win64\UE4Editor\DebugGame\ToonTank\PawnBase.cpp.obj"
+"C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Intermediate\Build\Win64\UE4Editor\DebugGame\ToonTank\ToonTank.cpp.obj"
+"C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Intermediate\Build\Win64\UE4Editor\DebugGame\ToonTank\PawnBase.gen.cpp.obj"
+"C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Intermediate\Build\Win64\UE4Editor\DebugGame\ToonTank\ToonTank.init.gen.cpp.obj"
+"C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Intermediate\Build\Win64\UE4Editor\DebugGame\ToonTank\Default.rc2.res"
+/OUT:"C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Intermediate\Build\Win64\UE4Editor\DebugGame\ToonTank\UE4Editor-ToonTank-Win64-DebugGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_ToonTank

@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "ToonTankEditor Editor Win64 Development (ToonTank)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_ToonTank.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
