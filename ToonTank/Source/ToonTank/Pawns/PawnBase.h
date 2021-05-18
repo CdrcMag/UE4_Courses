@@ -2,6 +2,8 @@
 
 #pragma once
 
+#include "Components/CapsuleComponent.h"
+
 #include "CoreMinimal.h"
 #include "GameFramework/Pawn.h"
 #include "PawnBase.generated.h"
@@ -33,6 +35,23 @@ public:
 
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
+
+	UPROPERTY(VisibleAnywhere, Category = "DEMO")
+	int VisibleAnywhere;
+	UPROPERTY(VisibleDefaultsOnly, Category = "DEMO")
+	int VisibleDefaultsOnly;
+	UPROPERTY(VisibleInstanceOnly, Category = "DEMO")
+	int VisibleInstanceOnly;
+	UPROPERTY(EditAnywhere, Category = "DEMO")
+	int EditAnywhere;
+	UPROPERTY(EditDefaultsOnly, Category = "DEMO")
+	int EditDefaultsOnly;
+	UPROPERTY(EditInstanceOnly, Category = "DEMO")
+	int EditInstanceOnly;
+
+
+
+
 
 protected:
 	// Called when the game starts or when spawned
