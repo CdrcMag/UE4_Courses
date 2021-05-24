@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeToonTank_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xAE8F1CD8,
-				0x071E8126,
+				0xB5DEADB0,
+				0xD7CDEB83,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
