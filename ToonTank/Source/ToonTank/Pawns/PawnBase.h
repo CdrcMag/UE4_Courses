@@ -17,13 +17,13 @@ class TOONTANK_API APawnBase : public APawn
 
 private:
 
-	UPROPERTY()
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components", meta = (AllowPrivateAccess = "true"))
 	UCapsuleComponent* CapsuleComp;
-	UPROPERTY()
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components", meta = (AllowPrivateAccess = "true"))
 	UStaticMeshComponent* BaseMesh;
-	UPROPERTY()
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components", meta = (AllowPrivateAccess = "true"))
 	UStaticMeshComponent* TurretMesh;
-	UPROPERTY()
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components", meta = (AllowPrivateAccess = "true"))
 	USceneComponent* ProjectileSpawnPoint;
 
 public:
@@ -36,18 +36,38 @@ public:
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
-	UPROPERTY(VisibleAnywhere, Category = "DEMO")
+	//Access modifiers
+	//https://docs.unrealengine.com/en-US/ProgrammingAndScripting/GameplayArchitecture/Properties/Specifiers/index.html
+
+	//VisibleAnywhere permet de voir cette variable dans toutes les fenêtres de propriétés, mais ne peut pas être éditée. 
+	//BlueprintReadOnly permet récupérer une node "get" de cette variable dans le blueprint.
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "DEMO")
 	int VisibleAnywhere;
+
+	//VisibleDefaultsOnly permet à cette variable d'être visible dans la fenêtre de propriétés des defaults (équivalent du prefab). Ne peut pas être édité.
 	UPROPERTY(VisibleDefaultsOnly, Category = "DEMO")
 	int VisibleDefaultsOnly;
-	UPROPERTY(VisibleInstanceOnly, Category = "DEMO")
+
+	//VisibleInstanceOnly indique que cette variable est visible seulement dans la fenêtre de propriétés des instances de l'objet. Ne peut pas être édité.
+	//BlueprintReadWrite permet de récupérer des nodes "get" et "set" dans le blueprint de cette classe.
+	UPROPERTY(VisibleInstanceOnly, BlueprintReadWrite, Category = "DEMO")
 	int VisibleInstanceOnly;
+
+	//EditAnywhere permet la modification de cette variable dans le defaults et dans les instances. 
 	UPROPERTY(EditAnywhere, Category = "DEMO")
 	int EditAnywhere;
+
+	//EditDefaultsOnly permet la modification de cette variable seulement dans le defaults
 	UPROPERTY(EditDefaultsOnly, Category = "DEMO")
 	int EditDefaultsOnly;
+
+	//EditInstanceOnly permet la modification de cette variable seulement dans les instances
 	UPROPERTY(EditInstanceOnly, Category = "DEMO")
 	int EditInstanceOnly;
+
+	//Variable concernant l'exercice du cours
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components")
+	int TestVariable;
 
 
 
