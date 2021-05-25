@@ -36,6 +36,7 @@ void APawnTank::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
+    //Lie les fonctions de mouvement et de rotation aux inputs correspondants
     PlayerInputComponent->BindAxis("MoveForward", this, &APawnTank::CalculateMoveInput);
     PlayerInputComponent->BindAxis("Turn", this, &APawnTank::CalculateRotationInput);
 }
@@ -44,11 +45,13 @@ void APawnTank::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 
 void APawnTank::CalculateMoveInput(float value)
 {
+    //Calcule le vecteur de déplacement, et se déplace en X
     MoveDirection = FVector(value * MoveSpeed * GetWorld()->DeltaTimeSeconds, 0, 0);
 }
 
 void APawnTank::CalculateRotationInput(float value)
 {
+    //Calcule la rotation du tank
     float RotateAmount = value * RotationSpeed * GetWorld()->DeltaTimeSeconds;
     FRotator rotation = FRotator(0, RotateAmount, 0);
     RotationDirection = FQuat(rotation);

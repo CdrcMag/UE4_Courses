@@ -35,6 +35,10 @@ void EmptyLinkFunctionForGeneratedCodePawnTurret() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_FireRate_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_FireRate;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_turretRange_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_turretRange;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -45,7 +49,6 @@ void EmptyLinkFunctionForGeneratedCodePawnTurret() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_APawnTurret_Statics::Class_MetaDataParams[] = {
-		{ "Comment", "/**\n * \n */" },
 		{ "HideCategories", "Navigation" },
 		{ "IncludePath", "Pawns/PawnTurret.h" },
 		{ "ModuleRelativePath", "Pawns/PawnTurret.h" },
@@ -55,12 +58,25 @@ void EmptyLinkFunctionForGeneratedCodePawnTurret() {}
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_APawnTurret_Statics::NewProp_FireRate_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Combat" },
+		{ "Comment", "//Cadence de tir de la tourelle\n" },
 		{ "ModuleRelativePath", "Pawns/PawnTurret.h" },
+		{ "ToolTip", "Cadence de tir de la tourelle" },
 	};
 #endif
 	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_APawnTurret_Statics::NewProp_FireRate = { "FireRate", nullptr, (EPropertyFlags)0x0040000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(APawnTurret, FireRate), METADATA_PARAMS(Z_Construct_UClass_APawnTurret_Statics::NewProp_FireRate_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_APawnTurret_Statics::NewProp_FireRate_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_APawnTurret_Statics::NewProp_turretRange_MetaData[] = {
+		{ "AllowPrivateAccess", "true" },
+		{ "Category", "Combat" },
+		{ "Comment", "//Distance \xc3\xa0 laquelle la tourelle d\xc3\xa9tecte le joueur\n" },
+		{ "ModuleRelativePath", "Pawns/PawnTurret.h" },
+		{ "ToolTip", "Distance \xc3\xa0 laquelle la tourelle d\xc3\xa9tecte le joueur" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_APawnTurret_Statics::NewProp_turretRange = { "turretRange", nullptr, (EPropertyFlags)0x0040000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(APawnTurret, turretRange), METADATA_PARAMS(Z_Construct_UClass_APawnTurret_Statics::NewProp_turretRange_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_APawnTurret_Statics::NewProp_turretRange_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_APawnTurret_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APawnTurret_Statics::NewProp_FireRate,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APawnTurret_Statics::NewProp_turretRange,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_APawnTurret_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<APawnTurret>::IsAbstract,
@@ -89,7 +105,7 @@ void EmptyLinkFunctionForGeneratedCodePawnTurret() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(APawnTurret, 1092095520);
+	IMPLEMENT_CLASS(APawnTurret, 191204412);
 	template<> TOONTANK_API UClass* StaticClass<APawnTurret>()
 	{
 		return APawnTurret::StaticClass();

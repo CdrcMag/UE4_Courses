@@ -18,3 +18,5 @@ D:\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Dialog
 D:\Documents\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
 D:\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
 D:\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Source\ToonTank\Pawns\PawnTank.h
+C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Intermediate\Build\Win64\UE4Editor\Inc\ToonTank\PawnTank.generated.h
