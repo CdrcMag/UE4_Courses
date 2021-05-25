@@ -5,8 +5,6 @@
 Unreal 4.22 C++ Developer : Learn C++ and Make Video Games
 https://www.gamedev.tv/p/learn-unreal-engine-c-developer-4-22-for-video-game-development?coupon=MERRYMAY
 
-Déroulé : 
-
 - Introduction du projet
 - Création d'une classe Pawn
 - Création de composants
