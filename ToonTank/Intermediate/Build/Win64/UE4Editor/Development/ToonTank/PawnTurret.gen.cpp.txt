@@ -1,0 +1,11 @@
+C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Intermediate\Build\Win64\UE4Editor\Development\ToonTank\Definitions.ToonTank.h
+D:\Documents\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Documents\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Source\ToonTank/Pawns/PawnTurret.h
+C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Source\ToonTank\Pawns\PawnBase.h
+D:\Documents\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
+D:\Documents\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h
+C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Intermediate\Build\Win64\UE4Editor\Inc\ToonTank\PawnBase.generated.h
+C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Intermediate\Build\Win64\UE4Editor\Inc\ToonTank\PawnTurret.generated.h
