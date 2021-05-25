@@ -8,14 +8,26 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class UPrimitiveComponent;
+class AActor;
+struct FVector;
+struct FHitResult;
 #ifdef TOONTANK_ProjectileBase_generated_h
 #error "ProjectileBase.generated.h already included, missing '#pragma once' in ProjectileBase.h"
 #endif
 #define TOONTANK_ProjectileBase_generated_h
 
 #define ToonTank_Source_ToonTank_Actors_ProjectileBase_h_14_SPARSE_DATA
-#define ToonTank_Source_ToonTank_Actors_ProjectileBase_h_14_RPC_WRAPPERS
-#define ToonTank_Source_ToonTank_Actors_ProjectileBase_h_14_RPC_WRAPPERS_NO_PURE_DECLS
+#define ToonTank_Source_ToonTank_Actors_ProjectileBase_h_14_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execOnHit);
+
+
+#define ToonTank_Source_ToonTank_Actors_ProjectileBase_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execOnHit);
+
+
 #define ToonTank_Source_ToonTank_Actors_ProjectileBase_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAProjectileBase(); \

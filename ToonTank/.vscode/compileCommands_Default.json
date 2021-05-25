@@ -1,57 +1,57 @@
 [
 	{
-		"file": "C:\\\\Users\\\\cedri\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\Actors\\\\ProjectileBase.cpp",
-		"command": "cl.exe @\"C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
-		"directory": "D:\\Documents\\UE_4.26\\Engine\\Source"
+		"file": "C:\\\\Users\\\\CEDRIC\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\Actors\\\\ProjectileBase.cpp",
+		"command": "cl.exe @\"C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
+		"directory": "C:\\UE\\UE_4.26\\Engine\\Source"
 	},
 	{
-		"file": "C:\\\\Users\\\\cedri\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\Actors\\\\ProjectileBase.h",
-		"command": "cl.exe @\"C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
-		"directory": "D:\\Documents\\UE_4.26\\Engine\\Source"
+		"file": "C:\\\\Users\\\\CEDRIC\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\Actors\\\\ProjectileBase.h",
+		"command": "cl.exe @\"C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
+		"directory": "C:\\UE\\UE_4.26\\Engine\\Source"
 	},
 	{
-		"file": "C:\\\\Users\\\\cedri\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\Pawns\\\\PawnBase.cpp",
-		"command": "cl.exe @\"C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
-		"directory": "D:\\Documents\\UE_4.26\\Engine\\Source"
+		"file": "C:\\\\Users\\\\CEDRIC\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\Pawns\\\\PawnBase.cpp",
+		"command": "cl.exe @\"C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
+		"directory": "C:\\UE\\UE_4.26\\Engine\\Source"
 	},
 	{
-		"file": "C:\\\\Users\\\\cedri\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\Pawns\\\\PawnBase.h",
-		"command": "cl.exe @\"C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
-		"directory": "D:\\Documents\\UE_4.26\\Engine\\Source"
+		"file": "C:\\\\Users\\\\CEDRIC\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\Pawns\\\\PawnBase.h",
+		"command": "cl.exe @\"C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
+		"directory": "C:\\UE\\UE_4.26\\Engine\\Source"
 	},
 	{
-		"file": "C:\\\\Users\\\\cedri\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\Pawns\\\\PawnTank.cpp",
-		"command": "cl.exe @\"C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
-		"directory": "D:\\Documents\\UE_4.26\\Engine\\Source"
+		"file": "C:\\\\Users\\\\CEDRIC\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\Pawns\\\\PawnTank.cpp",
+		"command": "cl.exe @\"C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
+		"directory": "C:\\UE\\UE_4.26\\Engine\\Source"
 	},
 	{
-		"file": "C:\\\\Users\\\\cedri\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\Pawns\\\\PawnTank.h",
-		"command": "cl.exe @\"C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
-		"directory": "D:\\Documents\\UE_4.26\\Engine\\Source"
+		"file": "C:\\\\Users\\\\CEDRIC\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\Pawns\\\\PawnTank.h",
+		"command": "cl.exe @\"C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
+		"directory": "C:\\UE\\UE_4.26\\Engine\\Source"
 	},
 	{
-		"file": "C:\\\\Users\\\\cedri\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\Pawns\\\\PawnTurret.cpp",
-		"command": "cl.exe @\"C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
-		"directory": "D:\\Documents\\UE_4.26\\Engine\\Source"
+		"file": "C:\\\\Users\\\\CEDRIC\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\Pawns\\\\PawnTurret.cpp",
+		"command": "cl.exe @\"C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
+		"directory": "C:\\UE\\UE_4.26\\Engine\\Source"
 	},
 	{
-		"file": "C:\\\\Users\\\\cedri\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\Pawns\\\\PawnTurret.h",
-		"command": "cl.exe @\"C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
-		"directory": "D:\\Documents\\UE_4.26\\Engine\\Source"
+		"file": "C:\\\\Users\\\\CEDRIC\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\Pawns\\\\PawnTurret.h",
+		"command": "cl.exe @\"C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
+		"directory": "C:\\UE\\UE_4.26\\Engine\\Source"
 	},
 	{
-		"file": "C:\\\\Users\\\\cedri\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\ToonTank.Build.cs",
-		"command": "cl.exe @\"C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
-		"directory": "D:\\Documents\\UE_4.26\\Engine\\Source"
+		"file": "C:\\\\Users\\\\CEDRIC\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\ToonTank.Build.cs",
+		"command": "cl.exe @\"C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
+		"directory": "C:\\UE\\UE_4.26\\Engine\\Source"
 	},
 	{
-		"file": "C:\\\\Users\\\\cedri\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\ToonTank.cpp",
-		"command": "cl.exe @\"C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
-		"directory": "D:\\Documents\\UE_4.26\\Engine\\Source"
+		"file": "C:\\\\Users\\\\CEDRIC\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\ToonTank.cpp",
+		"command": "cl.exe @\"C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
+		"directory": "C:\\UE\\UE_4.26\\Engine\\Source"
 	},
 	{
-		"file": "C:\\\\Users\\\\cedri\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\ToonTank.h",
-		"command": "cl.exe @\"C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
-		"directory": "D:\\Documents\\UE_4.26\\Engine\\Source"
+		"file": "C:\\\\Users\\\\CEDRIC\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\ToonTank.h",
+		"command": "cl.exe @\"C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
+		"directory": "C:\\UE\\UE_4.26\\Engine\\Source"
 	}
 ]
