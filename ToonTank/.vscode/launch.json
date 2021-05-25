@@ -5,124 +5,124 @@
 			"name": "ToonTank (Debug)",
 			"request": "launch",
 			"preLaunchTask": "ToonTank Win64 Debug Build",
-			"program": "C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+			"program": "C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\Binaries\\Win64\\UE4-Win64-Debug.exe",
 			"args": [
 			],
-			"cwd": "C:\\UE\\UE_4.26",
+			"cwd": "D:\\Documents\\UE_4.26",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\UE\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "D:\\Documents\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "ToonTank (DebugGame)",
 			"request": "launch",
 			"preLaunchTask": "ToonTank Win64 DebugGame Build",
-			"program": "C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+			"program": "C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
 			"args": [
 			],
-			"cwd": "C:\\UE\\UE_4.26",
+			"cwd": "D:\\Documents\\UE_4.26",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\UE\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "D:\\Documents\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "ToonTank (Development)",
 			"request": "launch",
 			"preLaunchTask": "ToonTank Win64 Development Build",
-			"program": "C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\Binaries\\Win64\\UE4.exe",
+			"program": "C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\Binaries\\Win64\\UE4.exe",
 			"args": [
 			],
-			"cwd": "C:\\UE\\UE_4.26",
+			"cwd": "D:\\Documents\\UE_4.26",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\UE\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "D:\\Documents\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "ToonTank (Shipping)",
 			"request": "launch",
 			"preLaunchTask": "ToonTank Win64 Shipping Build",
-			"program": "C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+			"program": "C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
 			"args": [
 			],
-			"cwd": "C:\\UE\\UE_4.26",
+			"cwd": "D:\\Documents\\UE_4.26",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\UE\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "D:\\Documents\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "ToonTank (Test)",
 			"request": "launch",
 			"preLaunchTask": "ToonTank Win64 Test Build",
-			"program": "C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\Binaries\\Win64\\UE4-Win64-Test.exe",
+			"program": "C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\Binaries\\Win64\\UE4-Win64-Test.exe",
 			"args": [
 			],
-			"cwd": "C:\\UE\\UE_4.26",
+			"cwd": "D:\\Documents\\UE_4.26",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\UE\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "D:\\Documents\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "ToonTankEditor (Debug)",
 			"request": "launch",
 			"preLaunchTask": "ToonTankEditor Win64 Debug Build",
-			"program": "C:\\UE\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"program": "D:\\Documents\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
 			"args": [
-				"C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\ToonTank.uproject"
+				"C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\ToonTank.uproject"
 			],
-			"cwd": "C:\\UE\\UE_4.26",
+			"cwd": "D:\\Documents\\UE_4.26",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\UE\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "D:\\Documents\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "ToonTankEditor (DebugGame)",
 			"request": "launch",
 			"preLaunchTask": "ToonTankEditor Win64 DebugGame Build",
-			"program": "C:\\UE\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
+			"program": "D:\\Documents\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
 			"args": [
-				"C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\ToonTank.uproject"
+				"C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\ToonTank.uproject"
 			],
-			"cwd": "C:\\UE\\UE_4.26",
+			"cwd": "D:\\Documents\\UE_4.26",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\UE\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "D:\\Documents\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "ToonTankEditor (Development)",
 			"request": "launch",
 			"preLaunchTask": "ToonTankEditor Win64 Development Build",
-			"program": "C:\\UE\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"program": "D:\\Documents\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor.exe",
 			"args": [
-				"C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\ToonTank.uproject"
+				"C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\ToonTank.uproject"
 			],
-			"cwd": "C:\\UE\\UE_4.26",
+			"cwd": "D:\\Documents\\UE_4.26",
 			"stopAtEntry": false,
 			"externalConsole": true,
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\UE\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+			"visualizerFile": "D:\\Documents\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
 		},
 		{
 			"name": "Generate Project Files",
 			"type": "clr",
 			"request": "launch",
-			"program": "C:\\UE\\UE_4.26\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"program": "D:\\Documents\\UE_4.26\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
 			"console": "externalTerminal",
 			"args": [
 				"-projectfiles",
 				"-vscode",
-				"-project=C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\ToonTank.uproject",
+				"-project=C:\\Users\\cedri\\Desktop\\UE4_Courses\\ToonTank\\ToonTank.uproject",
 				"-game",
 				"-engine"
 			],
 			"internalConsoleOptions": "openOnSessionStart",
-			"cwd": "C:\\UE\\UE_4.26"
+			"cwd": "D:\\Documents\\UE_4.26"
 		}
 	]
 }

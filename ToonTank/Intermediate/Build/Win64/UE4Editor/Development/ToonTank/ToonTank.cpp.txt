@@ -1,2 +1,2 @@
-C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Intermediate\Build\Win64\UE4Editor\Development\ToonTank\Definitions.ToonTank.h
-c:\users\cedric\desktop\ue4_courses\toontank\source\toontank\ToonTank.h
+C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Intermediate\Build\Win64\UE4Editor\Development\ToonTank\Definitions.ToonTank.h
+C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Source\ToonTank\ToonTank.h
