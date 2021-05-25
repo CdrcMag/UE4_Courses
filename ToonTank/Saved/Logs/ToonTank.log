@@ -1637,3 +1637,252 @@ Would you like to open the Output Log to see more details?
 [2021.05.25-08.32.12:342][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.05.25-08.32.12:412][613]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
 [2021.05.25-08.32.12:498][614]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.05.25-09.16.09:184][760]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.05.25-09.26.29:546][ 94]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-09.26.29:547][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-09.26.30:503][130]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.25-09.26.30:504][130]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-09.26.30:505][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-09.26.32:533][224]Candidate modules for hot reload:
+[2021.05.25-09.26.32:533][224]  ToonTank
+[2021.05.25-09.26.32:534][224]Launching UnrealBuildTool... [D:/Documents/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTank,5834 ToonTankEditor Win64 Development -Project="C:/Users/cedri/Desktop/UE4_Courses/ToonTank/ToonTank.uproject" "C:/Users/cedri/Desktop/UE4_Courses/ToonTank/ToonTank.uproject"  -IgnoreJunk]
+[2021.05.25-09.26.32:589][224]Warning: Starting HotReload took  0.1s.
+[2021.05.25-09.27.43:896][976]CompilerResultsLog: New page: Compilation - 25 mai 2021 à 13:27:43
+[2021.05.25-09.27.43:896][976]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\cedri\Desktop\UE4_Courses).
+[2021.05.25-09.27.43:896][976]CompilerResultsLog: Parsing headers for ToonTankEditor
+[2021.05.25-09.27.43:896][976]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\cedri\Desktop\UE4_Courses\ToonTank\ToonTank.uproject" "C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Intermediate\Build\Win64\ToonTankEditor\Development\ToonTankEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\cedri\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.05.25-09.27.43:896][976]CompilerResultsLog: Reflection code generated for ToonTankEditor in 34,6863283 seconds
+[2021.05.25-09.27.43:896][976]CompilerResultsLog: Building ToonTankEditor...
+[2021.05.25-09.27.43:896][976]CompilerResultsLog: Using Visual Studio 2019 14.20.27508 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.05.25-09.27.43:897][976]CompilerResultsLog: Building 9 actions with 8 processes...
+[2021.05.25-09.27.43:897][976]CompilerResultsLog:   [1/9] PawnBase.cpp
+[2021.05.25-09.27.43:897][976]CompilerResultsLog:    C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Source\ToonTank\Pawns\PawnBase.cpp(28) : error C2082: red?finition du param?tre formel 'LookAtTarget'
+[2021.05.25-09.27.43:897][976]CompilerResultsLog:    C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Source\ToonTank\Pawns\PawnBase.cpp(28) : error C2440: '<function-style-cast>'?: impossible de convertir de 'initializer list' en 'FVector'
+[2021.05.25-09.27.43:897][976]CompilerResultsLog:   C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Source\ToonTank\Pawns\PawnBase.cpp(28): note: Aucun constructeur n'a pu prendre le type de source, ou la r?solution de la surcharge du constructeur ?tait ambigu?
+[2021.05.25-09.27.43:897][976]CompilerResultsLog:   [2/9] PawnTurret.cpp
+[2021.05.25-09.27.43:897][976]CompilerResultsLog:    C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Source\ToonTank\Pawns\PawnTurret.cpp(26) : error C2065: 'FireRange'?: identificateur non d?clar?
+[2021.05.25-09.27.43:897][976]CompilerResultsLog:   [3/9] PawnBase.gen.cpp
+[2021.05.25-09.27.43:897][976]CompilerResultsLog:   [4/9] PawnTurret.gen.cpp
+[2021.05.25-09.27.43:897][976]CompilerResultsLog:   [5/9] PawnTank.gen.cpp
+[2021.05.25-09.27.43:897][976]CompilerResultsLog:   [6/9] PawnTank.cpp
+[2021.05.25-09.27.43:897][976]LogMainFrame: MainFrame: Module compiling took 71.373 seconds
+[2021.05.25-09.27.43:898][976]Warning: HotReload failed, recompile failed
+[2021.05.25-09.29.57:250][135]Candidate modules for hot reload:
+[2021.05.25-09.29.57:250][135]  ToonTank
+[2021.05.25-09.29.57:251][135]Launching UnrealBuildTool... [D:/Documents/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTank,1727 ToonTankEditor Win64 Development -Project="C:/Users/cedri/Desktop/UE4_Courses/ToonTank/ToonTank.uproject" "C:/Users/cedri/Desktop/UE4_Courses/ToonTank/ToonTank.uproject"  -IgnoreJunk]
+[2021.05.25-09.29.57:255][135]Warning: Starting HotReload took  0.0s.
+[2021.05.25-09.30.06:339][513]CompilerResultsLog: New page: Compilation - 25 mai 2021 à 13:30:06
+[2021.05.25-09.30.06:340][513]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\cedri\Desktop\UE4_Courses).
+[2021.05.25-09.30.06:340][513]CompilerResultsLog: Building ToonTankEditor...
+[2021.05.25-09.30.06:340][513]CompilerResultsLog: Using Visual Studio 2019 14.20.27508 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.05.25-09.30.06:340][513]CompilerResultsLog: Building 5 actions with 8 processes...
+[2021.05.25-09.30.06:340][513]CompilerResultsLog:   [1/5] PawnBase.cpp
+[2021.05.25-09.30.06:340][513]CompilerResultsLog:    C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Source\ToonTank\Pawns\PawnBase.cpp(28) : error C2228: la partie gauche de '.Z' doit avoir un class/struct/union
+[2021.05.25-09.30.06:340][513]CompilerResultsLog:    C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Source\ToonTank\Pawns\PawnBase.cpp(28) : error C2440: '<function-style-cast>'?: impossible de convertir de 'initializer list' en 'FVector'
+[2021.05.25-09.30.06:340][513]CompilerResultsLog:   C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Source\ToonTank\Pawns\PawnBase.cpp(28): note: Aucun constructeur n'a pu prendre le type de source, ou la r?solution de la surcharge du constructeur ?tait ambigu?
+[2021.05.25-09.30.06:340][513]CompilerResultsLog:   [2/5] PawnTurret.cpp
+[2021.05.25-09.30.06:340][513]LogMainFrame: MainFrame: Module compiling took 9.107 seconds
+[2021.05.25-09.30.06:341][513]Warning: HotReload failed, recompile failed
+[2021.05.25-09.31.41:036][778]LogSlate: Window 'Message Log' being destroyed
+[2021.05.25-09.31.41:056][778]LogSlate: Window 'Message Log' being destroyed
+[2021.05.25-09.31.41:840][815]Candidate modules for hot reload:
+[2021.05.25-09.31.41:840][815]  ToonTank
+[2021.05.25-09.31.41:840][815]Launching UnrealBuildTool... [D:/Documents/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTank,6450 ToonTankEditor Win64 Development -Project="C:/Users/cedri/Desktop/UE4_Courses/ToonTank/ToonTank.uproject" "C:/Users/cedri/Desktop/UE4_Courses/ToonTank/ToonTank.uproject"  -IgnoreJunk]
+[2021.05.25-09.31.41:847][815]Warning: Starting HotReload took  0.0s.
+[2021.05.25-09.31.57:200][597]CompilerResultsLog: New page: Compilation - 25 mai 2021 à 13:31:57
+[2021.05.25-09.31.57:200][597]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\cedri\Desktop\UE4_Courses).
+[2021.05.25-09.31.57:200][597]CompilerResultsLog: Building ToonTankEditor...
+[2021.05.25-09.31.57:200][597]CompilerResultsLog: Using Visual Studio 2019 14.20.27508 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.05.25-09.31.57:200][597]CompilerResultsLog: Building 4 actions with 8 processes...
+[2021.05.25-09.31.57:200][597]CompilerResultsLog:   [1/4] PawnBase.cpp
+[2021.05.25-09.31.57:200][597]CompilerResultsLog:    C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Source\ToonTank\Pawns\PawnBase.cpp(28) : error C2228: la partie gauche de '.Z' doit avoir un class/struct/union
+[2021.05.25-09.31.57:200][597]CompilerResultsLog:    C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Source\ToonTank\Pawns\PawnBase.cpp(28) : error C2440: '<function-style-cast>'?: impossible de convertir de 'initializer list' en 'FVector'
+[2021.05.25-09.31.57:200][597]CompilerResultsLog:   C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Source\ToonTank\Pawns\PawnBase.cpp(28): note: Aucun constructeur n'a pu prendre le type de source, ou la r?solution de la surcharge du constructeur ?tait ambigu?
+[2021.05.25-09.31.57:200][597]LogMainFrame: MainFrame: Module compiling took 15.375 seconds
+[2021.05.25-09.31.57:202][597]Warning: HotReload failed, recompile failed
+[2021.05.25-09.37.49:859][103]Candidate modules for hot reload:
+[2021.05.25-09.37.49:859][103]  ToonTank
+[2021.05.25-09.37.49:860][103]Launching UnrealBuildTool... [D:/Documents/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTank,9479 ToonTankEditor Win64 Development -Project="C:/Users/cedri/Desktop/UE4_Courses/ToonTank/ToonTank.uproject" "C:/Users/cedri/Desktop/UE4_Courses/ToonTank/ToonTank.uproject"  -IgnoreJunk]
+[2021.05.25-09.37.50:175][103]Warning: Starting HotReload took  0.3s.
+[2021.05.25-09.37.55:381][307]LogSlate: Took 0.250451 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.05.25-09.37.55:880][330]LogSlate: Window 'Message Log' being destroyed
+[2021.05.25-09.37.55:896][330]LogSlate: Window 'Message Log' being destroyed
+[2021.05.25-09.38.11:433][901]CompilerResultsLog: New page: Compilation - 25 mai 2021 à 13:38:11
+[2021.05.25-09.38.11:433][901]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\cedri\Desktop\UE4_Courses).
+[2021.05.25-09.38.11:433][901]CompilerResultsLog: Building ToonTankEditor...
+[2021.05.25-09.38.11:433][901]CompilerResultsLog: Using Visual Studio 2019 14.20.27508 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.05.25-09.38.11:433][901]CompilerResultsLog: Building 4 actions with 8 processes...
+[2021.05.25-09.38.11:433][901]CompilerResultsLog:   [1/4] PawnBase.cpp
+[2021.05.25-09.38.11:433][901]CompilerResultsLog:    C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Source\ToonTank\Pawns\PawnBase.cpp(28) : error C2228: la partie gauche de '.Z' doit avoir un class/struct/union
+[2021.05.25-09.38.11:433][901]CompilerResultsLog:    C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Source\ToonTank\Pawns\PawnBase.cpp(28) : error C2440: '<function-style-cast>'?: impossible de convertir de 'initializer list' en 'FVector'
+[2021.05.25-09.38.11:433][901]CompilerResultsLog:   C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Source\ToonTank\Pawns\PawnBase.cpp(28): note: Aucun constructeur n'a pu prendre le type de source, ou la r?solution de la surcharge du constructeur ?tait ambigu?
+[2021.05.25-09.38.11:433][901]LogMainFrame: MainFrame: Module compiling took 21.585 seconds
+[2021.05.25-09.38.11:433][901]Warning: HotReload failed, recompile failed
+[2021.05.25-09.43.28:475][911]Candidate modules for hot reload:
+[2021.05.25-09.43.28:475][911]  ToonTank
+[2021.05.25-09.43.28:475][911]Launching UnrealBuildTool... [D:/Documents/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTank,6260 ToonTankEditor Win64 Development -Project="C:/Users/cedri/Desktop/UE4_Courses/ToonTank/ToonTank.uproject" "C:/Users/cedri/Desktop/UE4_Courses/ToonTank/ToonTank.uproject"  -IgnoreJunk]
+[2021.05.25-09.43.28:479][911]Warning: Starting HotReload took  0.0s.
+[2021.05.25-09.43.45:394][666]CompilerResultsLog: New page: Compilation - 25 mai 2021 à 13:43:45
+[2021.05.25-09.43.45:394][666]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\cedri\Desktop\UE4_Courses).
+[2021.05.25-09.43.45:394][666]CompilerResultsLog: Building ToonTankEditor...
+[2021.05.25-09.43.45:394][666]CompilerResultsLog: Using Visual Studio 2019 14.20.27508 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.05.25-09.43.45:394][666]CompilerResultsLog: Building 4 actions with 8 processes...
+[2021.05.25-09.43.45:394][666]CompilerResultsLog:   [1/4] PawnBase.cpp
+[2021.05.25-09.43.45:394][666]CompilerResultsLog:   [2/4] UE4Editor-ToonTank-6260.lib
+[2021.05.25-09.43.45:394][666]CompilerResultsLog:      Cr?ation de la biblioth?que C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Intermediate\Build\Win64\UE4Editor\Development\ToonTank\UE4Editor-ToonTank-6260.lib et de l'objet C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Intermediate\Build\Win64\UE4Editor\Development\ToonTank\UE4Editor-ToonTank-6260.exp
+[2021.05.25-09.43.45:395][666]CompilerResultsLog:   [3/4] UE4Editor-ToonTank-6260.dll
+[2021.05.25-09.43.45:395][666]CompilerResultsLog:      Cr?ation de la biblioth?que C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Intermediate\Build\Win64\UE4Editor\Development\ToonTank\UE4Editor-ToonTank-6260.suppressed.lib et de l'objet C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Intermediate\Build\Win64\UE4Editor\Development\ToonTank\UE4Editor-ToonTank-6260.suppressed.exp
+[2021.05.25-09.43.45:396][666]CompilerResultsLog:   [4/4] ToonTankEditor.target
+[2021.05.25-09.43.45:396][666]CompilerResultsLog: Total time in Parallel executor: 14,25 seconds
+[2021.05.25-09.43.45:396][666]CompilerResultsLog: Total execution time: 16,71 seconds
+[2021.05.25-09.43.45:396][666]LogMainFrame: MainFrame: Module compiling took 16.930 seconds
+[2021.05.25-09.43.45:889][666]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ToonTank' in 0.0118 seconds. Added 3 classes and 3 folders.
+[2021.05.25-09.43.45:930][666]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.05.25-09.43.48:423][666]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0268 seconds. Added 3604 classes and 862 folders.
+[2021.05.25-09.43.48:459][666]Display: HotReload took 20.0s.
+[2021.05.25-09.43.54:971][922]LogSlate: Window 'Message Log' being destroyed
+[2021.05.25-09.43.54:983][922]LogSlate: Window 'Message Log' being destroyed
+[2021.05.25-09.43.57:505][ 32]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-09.43.57:740][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.25-09.43.57:757][ 32]PIE: New page: PIE session: Minimal_Default (25 mai 2021 à 13:43:57)
+[2021.05.25-09.43.57:814][ 32]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.25-09.43.58:432][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.602543s)
+[2021.05.25-09.43.58:558][ 32]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.05.25-09.43.58:599][ 32]LogPlayLevel: PIE: World Init took: (0.167320s)
+[2021.05.25-09.43.58:613][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.806432s)
+[2021.05.25-09.44.00:083][ 32]LogUObjectHash: Compacting FUObjectHashTables data took  15.59ms
+[2021.05.25-09.44.00:243][ 32]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.05.25-09.44.00:280][ 32]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-09.44.00:280][ 32]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-09.44.00:280][ 32]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-09.44.00:280][ 32]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-09.44.00:280][ 32]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-09.44.00:280][ 32]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-09.44.00:280][ 32]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-09.44.00:294][ 32]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-09.44.00:346][ 32]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-09.44.00:346][ 32]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-09.44.00:416][ 32]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-09.44.00:416][ 32]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-09.44.00:455][ 32]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.05.25-09.44.00:472][ 32]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-09.44.00:472][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-09.44.00:490][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-09.44.00:508][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-09.44.00:509][ 32]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-09.44.00:509][ 32]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-09.44.00:517][ 32]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-09.44.00:517][ 32]LogInit: FAudioDevice initialized.
+[2021.05.25-09.44.00:517][ 32]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-09.44.00:517][ 32]LogAudio: Display: Audio Device (ID: 9) registered with world 'Minimal_Default'.
+[2021.05.25-09.44.00:818][ 32]LogLoad: Game class is 'GameModeBase'
+[2021.05.25-09.44.01:101][ 32]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2021.05.25-11.44.01
+[2021.05.25-09.44.01:304][ 32]LogWorld: Bringing up level for play took: 0.281921
+[2021.05.25-09.44.01:443][ 32]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.05.25-09.44.01:877][ 32]PIE: Server logged in
+[2021.05.25-09.44.01:879][ 32]PIE: Play in editor total start time 4,276 seconds.
+[2021.05.25-09.44.06:269][240]LogTemp: Warning: Fire condition success
+[2021.05.25-09.44.08:267][358]LogTemp: Warning: Fire condition success
+[2021.05.25-09.44.10:267][475]LogTemp: Warning: Fire condition success
+[2021.05.25-09.44.12:329][553]LogTemp: Warning: Fire condition success
+[2021.05.25-09.44.14:273][628]LogTemp: Warning: Fire condition success
+[2021.05.25-09.44.15:481][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-09.44.15:481][689]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.25-09.44.15:533][689]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-09.44.15:554][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-09.44.15:662][689]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-09.44.16:145][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-09.44.16:217][689]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.25-09.44.16:289][689]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-09.44.16:293][689]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-09.44.16:352][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-09.44.16:704][689]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2021.05.25-09.44.17:446][690]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.05.25-10.13.03:628][ 72]Candidate modules for hot reload:
+[2021.05.25-10.13.03:628][ 72]  ToonTank
+[2021.05.25-10.13.03:628][ 72]Launching UnrealBuildTool... [D:/Documents/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTank,2664 ToonTankEditor Win64 Development -Project="C:/Users/cedri/Desktop/UE4_Courses/ToonTank/ToonTank.uproject" "C:/Users/cedri/Desktop/UE4_Courses/ToonTank/ToonTank.uproject"  -IgnoreJunk]
+[2021.05.25-10.13.03:633][ 72]Warning: Starting HotReload took  0.0s.
+[2021.05.25-10.13.58:021][222]CompilerResultsLog: New page: Compilation - 25 mai 2021 à 14:13:58
+[2021.05.25-10.13.58:021][222]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\cedri\Desktop\UE4_Courses).
+[2021.05.25-10.13.58:021][222]CompilerResultsLog: Parsing headers for ToonTankEditor
+[2021.05.25-10.13.58:021][222]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\cedri\Desktop\UE4_Courses\ToonTank\ToonTank.uproject" "C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Intermediate\Build\Win64\ToonTankEditor\Development\ToonTankEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\cedri\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.05.25-10.13.58:021][222]CompilerResultsLog: Reflection code generated for ToonTankEditor in 30,8287635 seconds
+[2021.05.25-10.13.58:021][222]CompilerResultsLog: Building ToonTankEditor...
+[2021.05.25-10.13.58:021][222]CompilerResultsLog: Using Visual Studio 2019 14.20.27508 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.05.25-10.13.58:021][222]CompilerResultsLog: Building 7 actions with 8 processes...
+[2021.05.25-10.13.58:021][222]CompilerResultsLog:   [1/7] PawnTurret.cpp
+[2021.05.25-10.13.58:021][222]CompilerResultsLog:   [2/7] PawnTurret.gen.cpp
+[2021.05.25-10.13.58:021][222]CompilerResultsLog:   [3/7] PawnTank.gen.cpp
+[2021.05.25-10.13.58:021][222]CompilerResultsLog:   [4/7] PawnTank.cpp
+[2021.05.25-10.13.58:021][222]CompilerResultsLog:   [5/7] UE4Editor-ToonTank-2664.lib
+[2021.05.25-10.13.58:022][222]CompilerResultsLog:      Cr?ation de la biblioth?que C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Intermediate\Build\Win64\UE4Editor\Development\ToonTank\UE4Editor-ToonTank-2664.lib et de l'objet C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Intermediate\Build\Win64\UE4Editor\Development\ToonTank\UE4Editor-ToonTank-2664.exp
+[2021.05.25-10.13.58:022][222]CompilerResultsLog:   [6/7] UE4Editor-ToonTank-2664.dll
+[2021.05.25-10.13.58:022][222]CompilerResultsLog:      Cr?ation de la biblioth?que C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Intermediate\Build\Win64\UE4Editor\Development\ToonTank\UE4Editor-ToonTank-2664.suppressed.lib et de l'objet C:\Users\cedri\Desktop\UE4_Courses\ToonTank\Intermediate\Build\Win64\UE4Editor\Development\ToonTank\UE4Editor-ToonTank-2664.suppressed.exp
+[2021.05.25-10.13.58:022][222]CompilerResultsLog:   [7/7] ToonTankEditor.target
+[2021.05.25-10.13.58:022][222]CompilerResultsLog: Total time in Parallel executor: 18,39 seconds
+[2021.05.25-10.13.58:022][222]CompilerResultsLog: Total execution time: 53,80 seconds
+[2021.05.25-10.13.58:022][222]LogMainFrame: MainFrame: Module compiling took 54.402 seconds
+[2021.05.25-10.13.58:128][222]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ToonTank' in 0.0006 seconds. Added 3 classes and 3 folders.
+[2021.05.25-10.13.58:136][222]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.05.25-10.13.58:282][222]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0210 seconds. Added 3604 classes and 862 folders.
+[2021.05.25-10.13.58:282][222]Display: HotReload took 54.7s.
+[2021.05.25-10.14.32:415][153]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-10.14.32:427][153]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.25-10.14.32:427][153]PIE: New page: PIE session: Minimal_Default (25 mai 2021 à 14:14:32)
+[2021.05.25-10.14.32:428][153]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.25-10.14.32:436][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008779s)
+[2021.05.25-10.14.32:439][153]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.05.25-10.14.32:439][153]LogPlayLevel: PIE: World Init took: (0.002840s)
+[2021.05.25-10.14.32:439][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.011949s)
+[2021.05.25-10.14.32:571][153]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2021.05.25-10.14.32:577][153]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.05.25-10.14.32:577][153]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-10.14.32:577][153]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-10.14.32:577][153]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-10.14.32:577][153]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-10.14.32:577][153]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-10.14.32:577][153]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-10.14.32:577][153]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-10.14.32:577][153]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-10.14.32:578][153]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-10.14.32:578][153]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-10.14.32:587][153]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-10.14.32:587][153]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-10.14.32:621][153]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.05.25-10.14.32:622][153]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-10.14.32:622][153]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-10.14.32:622][153]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-10.14.32:625][153]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-10.14.32:625][153]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-10.14.32:625][153]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-10.14.32:654][153]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-10.14.32:654][153]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-10.14.32:654][153]LogInit: FAudioDevice initialized.
+[2021.05.25-10.14.32:654][153]LogAudio: Display: Audio Device (ID: 10) registered with world 'Minimal_Default'.
+[2021.05.25-10.14.32:663][153]LogLoad: Game class is 'GameModeBase'
+[2021.05.25-10.14.32:665][153]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2021.05.25-12.14.32
+[2021.05.25-10.14.32:666][153]LogWorld: Bringing up level for play took: 0.001634
+[2021.05.25-10.14.32:939][153]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.05.25-10.14.32:958][153]PIE: Server logged in
+[2021.05.25-10.14.32:960][153]PIE: Play in editor total start time 0,535 seconds.
+[2021.05.25-10.14.42:616][720]LogTemp: Warning: Fire condition success
+[2021.05.25-10.14.44:614][840]LogTemp: Warning: Fire condition success
+[2021.05.25-10.14.46:521][954]LogTemp: Warning: Fire condition success
+[2021.05.25-10.14.47:054][986]LogTemp: Warning: Fire condition success
+[2021.05.25-10.14.51:002][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-10.14.51:002][221]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.25-10.14.51:002][221]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-10.14.51:003][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-10.14.51:013][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-10.14.51:085][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-10.14.51:113][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-10.14.51:113][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-10.14.51:115][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-10.14.51:200][221]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.05.25-10.14.51:295][222]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.05.25-10.14.52:506][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.05.25-10.14.52:828][271]LogSavePackage: Moving 'C:/Users/cedri/Desktop/UE4_Courses/ToonTank/Saved/Minimal_DefaultD25639F34F0115CEE204678AC8C82CF5.tmp' to 'C:/Users/cedri/Desktop/UE4_Courses/ToonTank/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.05.25-10.14.53:109][271]LogSavePackage: Moving 'C:/Users/cedri/Desktop/UE4_Courses/ToonTank/Saved/Minimal_Default_BuiltData22EFCBF54DCB41E9870EF697E323BBA2.tmp' to 'C:/Users/cedri/Desktop/UE4_Courses/ToonTank/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.05.25-10.14.53:186][271]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.25-10.14.53:186][271]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.05.25-10.14.53:186][271]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default

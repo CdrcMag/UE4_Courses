@@ -46,5 +46,6 @@ protected:
 	// Called when the game starts of when spawned
 	virtual void BeginPlay() override;
 
+	virtual void HandleDestruction() override;
 	
 };

@@ -23,6 +23,16 @@ void APawnTurret::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
+    if(!PlayerPawn || ReturnDistanceToPlayer() > turretRange)
+    {
+        return;
+    }
+
+    FVector target = FVector(PlayerPawn->GetActorLocation());
+    RotateTurret(target);
+    
+
+
 
 }
 
@@ -36,8 +46,7 @@ void APawnTurret::CheckFireCondition()
     //Si la distance entre la tourelle et le tank est inférieure à la valeur de turretRange, appel de la méthode de tir
     if(ReturnDistanceToPlayer() <= turretRange)
     {
-        //Fire
-        UE_LOG(LogTemp, Warning, TEXT("Fire condition checked"));
+        Fire();
     }
 
 
@@ -55,4 +64,10 @@ float APawnTurret::ReturnDistanceToPlayer()
     //Retourne la distance entre la tourelle et le joueur
     return FVector::Dist(PlayerPawn->GetActorLocation(), GetActorLocation());
     
+}
+
+void APawnTurret::HandleDestruction()
+{
+    Super::HandleDestruction();
+    Destroy();
 }
