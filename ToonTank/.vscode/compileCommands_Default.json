@@ -10,12 +10,12 @@
 		"directory": "C:\\UE\\UE_4.26\\Engine\\Source"
 	},
 	{
-		"file": "C:\\\\Users\\\\CEDRIC\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\Components\\\\HealthComponent.cpp",
+		"file": "C:\\\\Users\\\\CEDRIC\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\Components\\\\HealthComponent_v2.cpp",
 		"command": "cl.exe @\"C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
 		"directory": "C:\\UE\\UE_4.26\\Engine\\Source"
 	},
 	{
-		"file": "C:\\\\Users\\\\CEDRIC\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\Components\\\\HealthComponent.h",
+		"file": "C:\\\\Users\\\\CEDRIC\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\Components\\\\HealthComponent_v2.h",
 		"command": "cl.exe @\"C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
 		"directory": "C:\\UE\\UE_4.26\\Engine\\Source"
 	},
@@ -56,6 +56,16 @@
 	},
 	{
 		"file": "C:\\\\Users\\\\CEDRIC\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\Pawns\\\\PawnTurret.h",
+		"command": "cl.exe @\"C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
+		"directory": "C:\\UE\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\CEDRIC\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\PlayerControllers\\\\PlayerControllerBase.cpp",
+		"command": "cl.exe @\"C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
+		"directory": "C:\\UE\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\CEDRIC\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\PlayerControllers\\\\PlayerControllerBase.h",
 		"command": "cl.exe @\"C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_Default\\ToonTank.182.rsp\"",
 		"directory": "C:\\UE\\UE_4.26\\Engine\\Source"
 	},

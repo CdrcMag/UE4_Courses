@@ -1,5 +1,0 @@
-C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Intermediate\Build\Win64\UE4Editor\Development\ToonTank\Definitions.ToonTank.h
-C:\UE\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\UE\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Source\ToonTank/Components/HealthComponent.h
-c:\users\cedric\desktop\ue4_courses\toontank\intermediate\build\win64\ue4editor\inc\toontank\HealthComponent.generated.h
