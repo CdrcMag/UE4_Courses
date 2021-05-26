@@ -2066,3 +2066,289 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.26-22.19.54:959][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2021.05.26-22.19.55:449][647]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
 [2021.05.26-22.19.55:449][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-22.22.36:633][789]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-22.22.36:633][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-22.22.36:957][819]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.26-22.22.36:957][819]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-22.22.36:957][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-22.22.37:907][924]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.26-22.22.37:907][924]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-22.22.37:908][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-22.22.37:976][924]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/BP_ProjectileBase.BP_ProjectileBase
+[2021.05.26-22.23.09:434][567]BlueprintLog: New page: Compile BP_ProjectileBase
+[2021.05.26-22.23.09:485][567]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.05.26-22.23.09:975][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_ProjectileBase" FILE="../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Content/Blueprints/Actors/BP_ProjectileBase.uasset" SILENT=true
+[2021.05.26-22.23.09:983][618]LogSavePackage: Moving '../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/BP_ProjectileBase60C774DA4C10654230F133AA39CA81E8.tmp' to '../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Content/Blueprints/Actors/BP_ProjectileBase.uasset'
+[2021.05.26-22.23.09:995][618]AssetCheck: New page: Asset Save: BP_ProjectileBase
+[2021.05.26-22.23.09:995][618]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_ProjectileBase.BP_ProjectileBase
+[2021.05.26-22.23.11:367][764]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.26-22.23.11:374][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.26-22.23.11:375][764]PIE: New page: PIE session: Minimal_Default (27 mai 2021 à 02:23:11)
+[2021.05.26-22.23.11:399][764]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.26-22.23.11:402][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003164s)
+[2021.05.26-22.23.11:403][764]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.05.26-22.23.11:403][764]LogPlayLevel: PIE: World Init took: (0.001136s)
+[2021.05.26-22.23.11:403][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004477s)
+[2021.05.26-22.23.11:426][764]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.05.26-22.23.11:427][764]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.05.26-22.23.11:427][764]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.26-22.23.11:427][764]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.26-22.23.11:427][764]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.26-22.23.11:427][764]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.26-22.23.11:427][764]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.26-22.23.11:427][764]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.26-22.23.11:427][764]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.26-22.23.11:427][764]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.26-22.23.11:428][764]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.26-22.23.11:428][764]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.26-22.23.11:433][764]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.26-22.23.11:433][764]LogAudioMixer: Display: 1: FrontRight
+[2021.05.26-22.23.11:450][764]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2021.05.26-22.23.11:450][764]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.26-22.23.11:450][764]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.26-22.23.11:450][764]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.26-22.23.11:451][764]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.26-22.23.11:451][764]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.26-22.23.11:451][764]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.26-22.23.11:465][764]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.26-22.23.11:465][764]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.26-22.23.11:465][764]LogInit: FAudioDevice initialized.
+[2021.05.26-22.23.11:465][764]LogAudio: Display: Audio Device (ID: 14) registered with world 'Minimal_Default'.
+[2021.05.26-22.23.11:476][764]LogLoad: Game class is 'BP_GameModeBase_C'
+[2021.05.26-22.23.11:476][764]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.05.27-00.23.11
+[2021.05.26-22.23.11:477][764]LogWorld: Bringing up level for play took: 0.000885
+[2021.05.26-22.23.11:477][764]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2021.05.26-22.23.11:479][764]PIE: Server logged in
+[2021.05.26-22.23.11:480][764]PIE: Play in editor total start time 0,107 seconds.
+[2021.05.26-22.23.19:190][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-22.23.19:190][675]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.26-22.23.19:190][675]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-22.23.19:190][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-22.23.19:201][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.26-22.23.19:206][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-22.23.19:225][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-22.23.19:226][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-22.23.19:227][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-22.23.19:248][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.05.26-22.23.19:271][676]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2021.05.26-22.23.26:740][548]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-22.23.26:740][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-22.23.29:281][836]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PlayerControllers/BP_PlayerController.BP_PlayerController
+[2021.05.26-22.23.34:514][186]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-22.23.34:514][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-22.23.34:579][186]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PlayerControllers/BP_PlayerController.BP_PlayerController
+[2021.05.26-22.24.00:014][907]BlueprintLog: New page: Compile BP_PlayerController
+[2021.05.26-22.24.00:062][907]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.05.26-22.24.00:605][963]LogSavePackage: Moving '../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/BP_PlayerController9CBD972E463EBA99ABE2D0A82C4F6519.tmp' to '../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Content/Blueprints/PlayerControllers/BP_PlayerController.uasset'
+[2021.05.26-22.24.00:633][963]AssetCheck: New page: Asset Save: BP_PlayerController
+[2021.05.26-22.24.00:633][963]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PlayerControllers/BP_PlayerController.BP_PlayerController
+[2021.05.26-22.24.02:478][164]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.26-22.24.02:498][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.26-22.24.02:498][164]PIE: New page: PIE session: Minimal_Default (27 mai 2021 à 02:24:02)
+[2021.05.26-22.24.02:498][164]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.26-22.24.02:501][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003169s)
+[2021.05.26-22.24.02:502][164]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.05.26-22.24.02:502][164]LogPlayLevel: PIE: World Init took: (0.001153s)
+[2021.05.26-22.24.02:502][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004448s)
+[2021.05.26-22.24.02:525][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.05.26-22.24.02:527][164]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.05.26-22.24.02:527][164]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.26-22.24.02:527][164]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.26-22.24.02:527][164]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.26-22.24.02:527][164]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.26-22.24.02:527][164]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.26-22.24.02:527][164]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.26-22.24.02:527][164]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.26-22.24.02:527][164]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.26-22.24.02:527][164]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.26-22.24.02:527][164]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.26-22.24.02:532][164]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.26-22.24.02:532][164]LogAudioMixer: Display: 1: FrontRight
+[2021.05.26-22.24.02:548][164]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2021.05.26-22.24.02:549][164]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.26-22.24.02:549][164]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.26-22.24.02:549][164]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.26-22.24.02:549][164]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.26-22.24.02:549][164]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.26-22.24.02:549][164]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.26-22.24.02:563][164]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.26-22.24.02:563][164]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.26-22.24.02:563][164]LogInit: FAudioDevice initialized.
+[2021.05.26-22.24.02:563][164]LogAudio: Display: Audio Device (ID: 15) registered with world 'Minimal_Default'.
+[2021.05.26-22.24.02:573][164]LogLoad: Game class is 'BP_GameModeBase_C'
+[2021.05.26-22.24.02:575][164]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.05.27-00.24.02
+[2021.05.26-22.24.02:576][164]LogWorld: Bringing up level for play took: 0.001122
+[2021.05.26-22.24.02:576][164]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2021.05.26-22.24.02:579][164]PIE: Server logged in
+[2021.05.26-22.24.02:580][164]PIE: Play in editor total start time 0,083 seconds.
+[2021.05.26-22.24.13:942][431]LogTemp: Warning: HEALTH : 50.000000
+[2021.05.26-22.24.15:100][570]LogTemp: Warning: HEALTH : 0.000000
+[2021.05.26-22.24.16:272][710]LogTemp: Warning: HEALTH : 50.000000
+[2021.05.26-22.24.16:465][733]LogTemp: Warning: HEALTH : 0.000000
+[2021.05.26-22.24.17:729][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-22.24.17:729][881]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.26-22.24.17:729][881]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-22.24.17:729][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-22.24.17:737][881]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.26-22.24.17:742][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-22.24.17:762][881]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.26-22.24.17:762][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-22.24.17:763][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-22.24.17:778][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-22.24.17:782][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.05.26-22.24.17:805][882]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2021.05.26-22.24.26:808][915]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-22.24.26:809][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-22.24.42:889][529]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.05.26-22.25.51:380][948]BlueprintLog: New page: Compile BP_PawnTank
+[2021.05.26-22.25.51:431][948]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.05.26-22.25.51:960][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PawnTank" FILE="../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Content/Blueprints/Pawns/BP_PawnTank.uasset" SILENT=true
+[2021.05.26-22.25.51:969][  4]LogSavePackage: Moving '../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/BP_PawnTankB21C5D8D4AC06B4570C33EB51749D360.tmp' to '../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Content/Blueprints/Pawns/BP_PawnTank.uasset'
+[2021.05.26-22.25.52:274][  4]AssetCheck: New page: Asset Save: BP_PawnTank
+[2021.05.26-22.25.52:274][  4]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.05.26-22.26.01:908][148]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_PawnTurret.BP_PawnTurret
+[2021.05.26-22.26.11:671][ 95]BlueprintLog: New page: Compile BP_PawnTurret
+[2021.05.26-22.26.11:725][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.05.26-22.26.12:200][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PawnTurret" FILE="../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Content/Blueprints/Pawns/BP_PawnTurret.uasset" SILENT=true
+[2021.05.26-22.26.12:209][147]LogSavePackage: Moving '../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/BP_PawnTurretA44893F047EC3E464DC50F8379FEB9AE.tmp' to '../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Content/Blueprints/Pawns/BP_PawnTurret.uasset'
+[2021.05.26-22.26.12:223][147]AssetCheck: New page: Asset Save: BP_PawnTurret
+[2021.05.26-22.26.12:223][147]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_PawnTurret.BP_PawnTurret
+[2021.05.26-22.27.06:009][625]LogEditorViewport: Clicking on Actor (LMB): BP_PawnTurret_C (BP_PawnTurret3)
+[2021.05.26-22.27.06:726][625]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.05.26-22.27.12:984][882]LogEditorViewport: Clicking on Actor (LMB): BP_PawnTurret_C (BP_PawnTurret3)
+[2021.05.26-22.27.14:313][986]Cmd: EDIT COPY
+[2021.05.26-22.27.18:353][986]Cmd: EDIT PASTE
+[2021.05.26-22.27.23:212][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.26-22.27.23:267][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.26-22.27.34:555][ 36]LogUObjectHash: Compacting FUObjectHashTables data took  11.51ms
+[2021.05.26-22.27.34:583][ 36]LogSavePackage: Moving '../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Minimal_DefaultE2E6B6674C89A753802FF0B04C64DD64.tmp' to '../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.05.26-22.27.34:647][ 36]LogSavePackage: Moving '../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Minimal_Default_BuiltData94A732804DCFAADDDAE63E8D353EF351.tmp' to '../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.05.26-22.27.34:661][ 36]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.26-22.27.34:661][ 36]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.05.26-22.27.34:661][ 36]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.05.26-22.36.09:719][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.05.26-22.36.12:122][ 13]LogSlate: Window 'Save Content' being destroyed
+[2021.05.26-22.36.12:156][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/C_Assets/Effects/P_HitEffect" FILE="../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Content/C_Assets/Effects/P_HitEffect.uasset" SILENT=true
+[2021.05.26-22.36.13:299][ 13]LogSavePackage: Moving '../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/P_HitEffect36DE671D499C1EE7B02E0F8CA4B9460D.tmp' to '../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Content/C_Assets/Effects/P_HitEffect.uasset'
+[2021.05.26-22.36.13:778][ 13]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-22.36.13:778][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-22.36.14:323][ 13]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.26-22.36.14:323][ 13]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-22.36.14:323][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-22.36.24:128][ 13]LogSlate: Window 'ToonTank - Unreal Editor' being destroyed
+[2021.05.26-22.36.30:318][ 13]AssetCheck: New page: Asset Save: P_HitEffect
+[2021.05.26-22.36.30:318][ 13]LogContentValidation: Display: Validating ParticleSystem /Game/C_Assets/Effects/P_HitEffect.P_HitEffect
+[2021.05.26-22.36.30:435][ 14]Cmd: QUIT_EDITOR
+[2021.05.26-22.36.30:435][ 14]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.05.26-22.36.31:369][ 14]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.05.26-22.36.33:459][ 14]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.05.26-22.36.33:459][ 14]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.05.26-22.36.33:459][ 14]LogAudio: Display: Audio Device unregistered from world 'Minimal_Default'.
+[2021.05.26-22.36.33:581][ 14]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-22.36.33:583][ 14]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-22.36.33:779][ 14]LogAudio: Display: Audio Device Manager Shutdown
+[2021.05.26-22.36.33:868][ 14]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.26-22.36.33:999][ 14]LogExit: Preparing to exit.
+[2021.05.26-22.36.35:075][ 14]LogDeviceProfile: Device profile begin destroy: [00000218925BB100] Windows
+[2021.05.26-22.36.35:075][ 14]LogDeviceProfile: Device profile begin destroy: [00000218925BB000] Default__DeviceProfile
+[2021.05.26-22.36.35:075][ 14]LogDeviceProfile: Device profile begin destroy: [000002189257D100] WindowsNoEditor
+[2021.05.26-22.36.35:075][ 14]LogDeviceProfile: Device profile begin destroy: [00000218925B9100] WindowsServer
+[2021.05.26-22.36.35:075][ 14]LogDeviceProfile: Device profile begin destroy: [000002189257E900] WindowsClient
+[2021.05.26-22.36.35:075][ 14]LogDeviceProfile: Device profile begin destroy: [00000218925BA800] IOS
+[2021.05.26-22.36.35:075][ 14]LogDeviceProfile: Device profile begin destroy: [000002189257DA00] iPadAir
+[2021.05.26-22.36.35:075][ 14]LogDeviceProfile: Device profile begin destroy: [00000218925B9900] iPadAir2
+[2021.05.26-22.36.35:075][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892534300] IPadPro
+[2021.05.26-22.36.35:075][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892534400] iPadAir3
+[2021.05.26-22.36.35:075][ 14]LogDeviceProfile: Device profile begin destroy: [00000218925BB300] iPadAir4
+[2021.05.26-22.36.35:075][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892536C00] iPadMini2
+[2021.05.26-22.36.35:075][ 14]LogDeviceProfile: Device profile begin destroy: [00000218925B8F00] iPadMini3
+[2021.05.26-22.36.35:075][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892535F00] iPadMini4
+[2021.05.26-22.36.35:075][ 14]LogDeviceProfile: Device profile begin destroy: [00000218925BAC00] iPadMini5
+[2021.05.26-22.36.35:075][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892527B00] iPhone6
+[2021.05.26-22.36.35:075][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892527C00] iPodTouch6
+[2021.05.26-22.36.35:075][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892536600] iPhone7
+[2021.05.26-22.36.35:075][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892536700] iPodTouch7
+[2021.05.26-22.36.35:075][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892525500] iPhone5S
+[2021.05.26-22.36.35:075][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892536100] iPhone6Plus
+[2021.05.26-22.36.35:075][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892526400] iPhone6S
+[2021.05.26-22.36.35:075][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892537400] iPhone6SPlus
+[2021.05.26-22.36.35:075][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892525D00] iPhone7Plus
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892536E00] iPhoneSE
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892526600] iPhone8
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892537A00] iPhone8Plus
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892525900] iPhoneX
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892537700] iPhoneXS
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892527200] iPhoneXSMax
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892536400] iPhoneXR
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892526800] iPhone11
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892535000] iPhone11Pro
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892525400] iPhone11ProMax
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892535600] iPhoneSE2
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892526A00] iPhone12Mini
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892535C00] iPhone12
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892526900] iPhone12Pro
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892536300] iPhone12ProMax
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892525700] iPadPro105
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892534F00] iPadPro129
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892527600] iPadPro97
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892534800] iPadPro2_129
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892526D00] iPad5
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892534500] iPad6
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892524600] iPad7
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892535400] iPad8
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892527000] iPadPro11
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892537300] iPadPro2_11
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892526C00] iPadPro3_129
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892534700] iPadPro4_129
+[2021.05.26-22.36.35:076][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892527E00] AppleTV
+[2021.05.26-22.36.35:077][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892536900] AppleTV4K
+[2021.05.26-22.36.35:077][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892526700] TVOS
+[2021.05.26-22.36.35:077][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892536A00] Mac
+[2021.05.26-22.36.35:077][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892527800] MacClient
+[2021.05.26-22.36.35:077][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892536200] MacNoEditor
+[2021.05.26-22.36.35:077][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892524C00] MacServer
+[2021.05.26-22.36.35:077][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892534A00] Linux
+[2021.05.26-22.36.35:077][ 14]LogDeviceProfile: Device profile begin destroy: [000002189257C900] LinuxAArch64
+[2021.05.26-22.36.35:077][ 14]LogDeviceProfile: Device profile begin destroy: [00000218925FD000] LinuxNoEditor
+[2021.05.26-22.36.35:077][ 14]LogDeviceProfile: Device profile begin destroy: [000002189257FD00] LinuxAArch64NoEditor
+[2021.05.26-22.36.35:077][ 14]LogDeviceProfile: Device profile begin destroy: [00000218925FD200] LinuxClient
+[2021.05.26-22.36.35:077][ 14]LogDeviceProfile: Device profile begin destroy: [000002189257CA00] LinuxAArch64Client
+[2021.05.26-22.36.35:077][ 14]LogDeviceProfile: Device profile begin destroy: [00000218925FD300] LinuxServer
+[2021.05.26-22.36.35:077][ 14]LogDeviceProfile: Device profile begin destroy: [000002189257C200] LinuxAArch64Server
+[2021.05.26-22.36.35:077][ 14]LogDeviceProfile: Device profile begin destroy: [00000218925FCA00] Android
+[2021.05.26-22.36.35:077][ 14]LogDeviceProfile: Device profile begin destroy: [000002189257D900] Android_Low
+[2021.05.26-22.36.35:077][ 14]LogDeviceProfile: Device profile begin destroy: [00000218925FD700] Android_Mid
+[2021.05.26-22.36.35:077][ 14]LogDeviceProfile: Device profile begin destroy: [000002189257F800] Android_High
+[2021.05.26-22.36.35:077][ 14]LogDeviceProfile: Device profile begin destroy: [00000218925FC100] Android_Default
+[2021.05.26-22.36.35:077][ 14]LogDeviceProfile: Device profile begin destroy: [000002189257F000] Android_Adreno4xx
+[2021.05.26-22.36.35:077][ 14]LogDeviceProfile: Device profile begin destroy: [00000218925FD600] Android_Adreno5xx_Low
+[2021.05.26-22.36.35:077][ 14]LogDeviceProfile: Device profile begin destroy: [000002189257E000] Android_Adreno5xx
+[2021.05.26-22.36.35:077][ 14]LogDeviceProfile: Device profile begin destroy: [00000218925FCC00] Android_Adreno6xx
+[2021.05.26-22.36.35:077][ 14]LogDeviceProfile: Device profile begin destroy: [000002189257DF00] Android_Adreno6xx_Vulkan
+[2021.05.26-22.36.35:077][ 14]LogDeviceProfile: Device profile begin destroy: [00000218925FCD00] Android_Mali_T6xx
+[2021.05.26-22.36.35:077][ 14]LogDeviceProfile: Device profile begin destroy: [000002189257CD00] Android_Mali_T7xx
+[2021.05.26-22.36.35:078][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892536000] Android_Mali_T8xx
+[2021.05.26-22.36.35:078][ 14]LogDeviceProfile: Device profile begin destroy: [000002189257C600] Android_Mali_G71
+[2021.05.26-22.36.35:078][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892535900] Android_Mali_G72
+[2021.05.26-22.36.35:078][ 14]LogDeviceProfile: Device profile begin destroy: [000002189257F400] Android_Mali_G72_Vulkan
+[2021.05.26-22.36.35:078][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892536B00] Android_Mali_G76
+[2021.05.26-22.36.35:078][ 14]LogDeviceProfile: Device profile begin destroy: [000002189257D400] Android_Mali_G76_Vulkan
+[2021.05.26-22.36.35:078][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892537900] Android_Mali_G77
+[2021.05.26-22.36.35:078][ 14]LogDeviceProfile: Device profile begin destroy: [000002189257D600] Android_Mali_G77_Vulkan
+[2021.05.26-22.36.35:078][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892534D00] Android_Vulkan_SM5
+[2021.05.26-22.36.35:078][ 14]LogDeviceProfile: Device profile begin destroy: [000002189257F900] Android_PowerVR_G6xxx
+[2021.05.26-22.36.35:078][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892537100] Android_PowerVR_GT7xxx
+[2021.05.26-22.36.35:078][ 14]LogDeviceProfile: Device profile begin destroy: [000002189257C700] Android_PowerVR_GE8xxx
+[2021.05.26-22.36.35:078][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892537D00] Android_PowerVR_GM9xxx
+[2021.05.26-22.36.35:078][ 14]LogDeviceProfile: Device profile begin destroy: [000002189257FF00] Android_PowerVR_GM9xxx_Vulkan
+[2021.05.26-22.36.35:078][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892535D00] Android_TegraK1
+[2021.05.26-22.36.35:078][ 14]LogDeviceProfile: Device profile begin destroy: [000002189257E400] Android_Unknown_Vulkan
+[2021.05.26-22.36.35:078][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892536800] Lumin
+[2021.05.26-22.36.35:078][ 14]LogDeviceProfile: Device profile begin destroy: [000002189257E700] Lumin_Desktop
+[2021.05.26-22.36.35:078][ 14]LogDeviceProfile: Device profile begin destroy: [0000021892536F00] HoloLens
+[2021.05.26-22.36.38:322][ 14]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-22.36.38:325][ 14]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-22.36.38:328][ 14]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-22.36.38:331][ 14]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-22.36.38:335][ 14]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-22.36.43:890][ 14]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
