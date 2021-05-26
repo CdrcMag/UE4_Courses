@@ -40,12 +40,14 @@ public:
 
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
+
+	virtual void HandleDestruction() override;
 	
 protected:
 
 	// Called when the game starts of when spawned
 	virtual void BeginPlay() override;
 
-	virtual void HandleDestruction() override;
+	
 	
 };

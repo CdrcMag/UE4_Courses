@@ -69,6 +69,7 @@ public:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components")
 	int TestVariable;
 
+	virtual void HandleDestruction();
 
 protected:
 
@@ -76,7 +77,7 @@ protected:
 
 	void Fire();
 	
-	virtual void HandleDestruction();
+	
 
 
 

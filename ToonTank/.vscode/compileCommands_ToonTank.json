@@ -10,6 +10,26 @@
 		"directory": "C:\\UE\\UE_4.26\\Engine\\Source"
 	},
 	{
+		"file": "C:\\\\Users\\\\CEDRIC\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\Components\\\\HealthComponent.cpp",
+		"command": "cl.exe @\"C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_ToonTank\\ToonTank.182.rsp\"",
+		"directory": "C:\\UE\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\CEDRIC\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\Components\\\\HealthComponent.h",
+		"command": "cl.exe @\"C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_ToonTank\\ToonTank.182.rsp\"",
+		"directory": "C:\\UE\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\CEDRIC\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\GameModes\\\\TankGameModebase.cpp",
+		"command": "cl.exe @\"C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_ToonTank\\ToonTank.182.rsp\"",
+		"directory": "C:\\UE\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\CEDRIC\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\GameModes\\\\TankGameModebase.h",
+		"command": "cl.exe @\"C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_ToonTank\\ToonTank.182.rsp\"",
+		"directory": "C:\\UE\\UE_4.26\\Engine\\Source"
+	},
+	{
 		"file": "C:\\\\Users\\\\CEDRIC\\\\Desktop\\\\UE4_Courses\\\\ToonTank\\\\Source\\\\ToonTank\\\\Pawns\\\\PawnBase.cpp",
 		"command": "cl.exe @\"C:\\Users\\CEDRIC\\Desktop\\UE4_Courses\\ToonTank\\.vscode\\compileCommands_ToonTank\\ToonTank.182.rsp\"",
 		"directory": "C:\\UE\\UE_4.26\\Engine\\Source"
