@@ -83,5 +83,16 @@ void APawnTank::Rotate()
 void APawnTank::HandleDestruction()
 {
     Super::HandleDestruction();
-    //Cacher le joueur
+    
+    bIsPlayerAlive = false;
+    SetActorHiddenInGame(true);
+    SetActorTickEnabled(false);
+
+    
+
+}
+
+bool APawnTank::GetIsPlayerAlive()
+{
+    return bIsPlayerAlive;
 }

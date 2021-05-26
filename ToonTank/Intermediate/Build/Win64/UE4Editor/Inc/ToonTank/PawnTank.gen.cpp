@@ -131,7 +131,7 @@ void EmptyLinkFunctionForGeneratedCodePawnTank() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(APawnTank, 120934809);
+	IMPLEMENT_CLASS(APawnTank, 1747341774);
 	template<> TOONTANK_API UClass* StaticClass<APawnTank>()
 	{
 		return APawnTank::StaticClass();
