@@ -1,10 +1,10 @@
-﻿Log file open, 05/27/21 12:37:42
+﻿Log file open, 05/27/21 12:40:37
 LogInit: LLM is enabled
 LogInit: LLM CsvWriter: off TraceWriter: off
 LogInit: Display: Running engine for game: ToonTank
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.435360
+LogStats: Stats thread started at 0.264502
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogPluginManager: Mounting plugin MeshPainting
@@ -15,114 +15,114 @@ LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin CameraShakePreviewer
 LogPluginManager: Mounting plugin AnimationSharing
-LogPluginManager: Mounting plugin CLionSourceCodeAccess
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting plugin GitSourceControl
 LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
 LogPluginManager: Mounting plugin NullSourceCodeAccess
-LogPluginManager: Mounting plugin PlasticSourceControl
 LogPluginManager: Mounting plugin PerforceSourceControl
 LogPluginManager: Mounting plugin PluginUtils
-LogPluginManager: Mounting plugin RiderSourceCodeAccess
 LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
 LogPluginManager: Mounting plugin SubversionSourceControl
-LogPluginManager: Mounting plugin AssetManagerEditor
 LogPluginManager: Mounting plugin UObjectPlugin
-LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
-LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
 LogPluginManager: Mounting plugin XCodeSourceCodeAccess
-LogPluginManager: Mounting plugin CurveEditorTools
-LogPluginManager: Mounting plugin CryptoKeys
-LogPluginManager: Mounting plugin DataValidation
-LogPluginManager: Mounting plugin FacialAnimation
-LogPluginManager: Mounting plugin GameplayTagsEditor
-LogPluginManager: Mounting plugin GeometryMode
-LogPluginManager: Mounting plugin MacGraphicsSwitching
-LogPluginManager: Mounting plugin MaterialAnalyzer
-LogPluginManager: Mounting plugin MobileLauncherProfileWizard
-LogPluginManager: Mounting plugin PluginBrowser
-LogPluginManager: Mounting plugin SpeedTreeImporter
-LogPluginManager: Mounting plugin DatasmithContent
-LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
 LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin DatasmithContent
 LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin LuminPlatformFeatures
 LogPluginManager: Mounting plugin AutomationUtils
 LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin ChaosCloth
 LogPluginManager: Mounting plugin ChaosClothEditor
 LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
 LogPluginManager: Mounting plugin ChaosNiagara
 LogPluginManager: Mounting plugin ChaosSolverPlugin
-LogPluginManager: Mounting plugin CharacterAI
-LogPluginManager: Mounting plugin GeometryCache
-LogPluginManager: Mounting plugin GeometryCollectionPlugin
-LogPluginManager: Mounting plugin GeometryProcessing
-LogPluginManager: Mounting plugin MotoSynth
-LogPluginManager: Mounting plugin ProxyLODPlugin
-LogPluginManager: Mounting plugin PlanarCut
-LogPluginManager: Mounting plugin PlatformCrypto
-LogPluginManager: Mounting plugin SkeletalReduction
-LogPluginManager: Mounting plugin LuminPlatformFeatures
-LogPluginManager: Mounting plugin MagicLeap
-LogPluginManager: Mounting plugin MagicLeapLightEstimation
 LogPluginManager: Mounting plugin MagicLeapMedia
 LogPluginManager: Mounting plugin MagicLeapPassableWorld
 LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin CharacterAI
 LogPluginManager: Mounting plugin AvfMedia
-LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin GeometryCache
 LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin MediaPlayerEditor
 LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
 LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
 LogPluginManager: Mounting plugin ActorSequence
-LogPluginManager: Mounting plugin MatineeToLevelSequence
 LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
 LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin OnlineSubsystem
 LogPluginManager: Mounting plugin OnlineSubsystemNull
 LogPluginManager: Mounting plugin OnlineSubsystemUtils
-LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin ActorLayerUtilities
-LogPluginManager: Mounting plugin AndroidMoviePlayer
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
 LogPluginManager: Mounting plugin AndroidPermission
-LogPluginManager: Mounting plugin AppleImageUtils
-LogPluginManager: Mounting plugin AssetTags
 LogPluginManager: Mounting plugin AppleMoviePlayer
 LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
 LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin AudioSynesthesia
-LogPluginManager: Mounting plugin CustomMeshComponent
-LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin ChunkDownloader
 LogPluginManager: Mounting plugin EditableMesh
-LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
 LogPluginManager: Mounting plugin IOSDeviceProfileSelector
-LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
 LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
 LogPluginManager: Mounting plugin MobilePatchingUtils
-LogPluginManager: Mounting plugin PostSplashScreen
 LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
 LogPluginManager: Mounting plugin ProceduralMeshComponent
-LogPluginManager: Mounting plugin PropertyAccessEditor
 LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin SignificanceManager
 LogPluginManager: Mounting plugin SoundFields
 LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogPluginManager: Mounting plugin ScreenshotTools
-LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
-LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin SpeedTreeImporter
 LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting plugin OnlineSubsystemIOS
 LogPluginManager: Mounting plugin OculusVR
 LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
 LogXGEController: Cleaning working directory: C:/Users/CEDRIC/AppData/Local/Temp/UnrealXGEWorkingDir/
 LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
 LogInit: Using libcurl 7.55.1-DEV
@@ -208,454 +208,1124 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2021.05.27-10.37.45:024][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2021.05.27-10.37.45:024][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2021.05.27-10.37.45:024][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Engine.ini]
-[2021.05.27-10.37.45:024][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2021.05.27-10.37.45:024][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Engine.ini]
-[2021.05.27-10.37.45:024][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Engine.ini]
-[2021.05.27-10.37.45:025][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2021.05.27-10.37.45:025][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2021.05.27-10.37.45:025][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2021.05.27-10.37.45:025][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2021.05.27-10.37.45:025][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2021.05.27-10.37.45:025][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2021.05.27-10.37.45:025][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2021.05.27-10.37.45:025][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2021.05.27-10.37.45:025][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2021.05.27-10.37.45:025][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2021.05.27-10.37.45:025][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2021.05.27-10.37.45:025][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2021.05.27-10.37.45:025][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2021.05.27-10.37.45:025][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
-[2021.05.27-10.37.45:025][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Engine.ini]
-[2021.05.27-10.37.45:025][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2021.05.27-10.37.45:025][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2021.05.27-10.37.45:025][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2021.05.27-10.37.45:026][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2021.05.27-10.37.45:026][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2021.05.27-10.37.45:026][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2021.05.27-10.37.45:026][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
-[2021.05.27-10.37.45:026][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2021.05.27-10.37.45:026][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2021.05.27-10.37.45:026][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2021.05.27-10.37.45:026][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2021.05.27-10.37.45:026][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2021.05.27-10.37.45:026][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2021.05.27-10.37.45:026][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
-[2021.05.27-10.37.45:026][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Engine.ini]
-[2021.05.27-10.37.45:026][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Engine.ini]
-[2021.05.27-10.37.45:080][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2021.05.27-10.37.45:080][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2021.05.27-10.37.45:081][  0]LogInit: Selected Device Profile: [Windows]
-[2021.05.27-10.37.45:081][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2021.05.27-10.37.45:081][  0]LogHAL: Display: Platform has ~ 16 GB [17112870912 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2021.05.27-10.37.45:081][  0]LogInit: Going up to parent DeviceProfile []
-[2021.05.27-10.37.45:081][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2021.05.27-10.37.45:081][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2021.05.27-10.37.45:082][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
-[2021.05.27-10.37.45:083][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Engine.ini]
-[2021.05.27-10.37.45:083][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Editor.ini]
-[2021.05.27-10.37.45:084][  0]LogInit: Computer: DESKTOP-J27Q8IV
-[2021.05.27-10.37.45:084][  0]LogInit: User: CEDRIC
-[2021.05.27-10.37.45:084][  0]LogInit: CPU Page size=4096, Cores=4
-[2021.05.27-10.37.45:084][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2021.05.27-10.37.45:084][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2021.05.27-10.37.45:084][  0]LogMemory: Platform Memory Stats for Windows
-[2021.05.27-10.37.45:084][  0]LogMemory: Process Physical Memory: 131.51 MB used, 131.51 MB peak
-[2021.05.27-10.37.45:084][  0]LogMemory: Process Virtual Memory: 108.75 MB used, 108.75 MB peak
-[2021.05.27-10.37.45:084][  0]LogMemory: Physical Memory: 6300.02 MB used,  10020.09 MB free, 16320.11 MB total
-[2021.05.27-10.37.45:084][  0]LogMemory: Virtual Memory: 134196344.00 MB used,  21386.04 MB free, 134217728.00 MB total
-[2021.05.27-10.37.45:110][  0]LogWindows: WindowsPlatformFeatures enabled
-[2021.05.27-10.37.45:552][  0]LogInit: Physics initialised using underlying interface: PhysX
-[2021.05.27-10.37.45:621][  0]LogInit: Using OS detected language (fr-FR).
-[2021.05.27-10.37.45:621][  0]LogInit: Using OS detected locale (fr-FR).
-[2021.05.27-10.37.45:889][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
-[2021.05.27-10.37.45:889][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
-[2021.05.27-10.37.45:889][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
-[2021.05.27-10.37.45:890][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
-[2021.05.27-10.37.45:890][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
-[2021.05.27-10.37.45:890][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
-[2021.05.27-10.37.45:891][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
-[2021.05.27-10.37.45:892][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
-[2021.05.27-10.37.46:117][  0]LogInit: Setting process to per monitor DPI aware
-[2021.05.27-10.37.46:442][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
-[2021.05.27-10.37.46:748][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2021.05.27-10.37.46:749][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2021.05.27-10.37.54:352][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2021.05.27-10.37.54:352][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
-[2021.05.27-10.37.54:352][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
-[2021.05.27-10.37.54:352][  0]LogD3D11RHI: D3D11 adapters:
-[2021.05.27-10.37.54:528][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
-[2021.05.27-10.37.54:528][  0]LogD3D11RHI:       8088/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2021.05.27-10.37.54:549][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2021.05.27-10.37.54:549][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2021.05.27-10.37.54:549][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2021.05.27-10.37.54:564][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2021.05.27-10.37.54:564][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
-[2021.05.27-10.37.54:564][  0]LogWindows: EnumDisplayDevices:
-[2021.05.27-10.37.54:564][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
-[2021.05.27-10.37.54:565][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
-[2021.05.27-10.37.54:565][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
-[2021.05.27-10.37.54:565][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
-[2021.05.27-10.37.54:566][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2021.05.27-10.37.54:566][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
-[2021.05.27-10.37.54:566][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
-[2021.05.27-10.37.54:566][  0]LogD3D11RHI:      Driver Date: 9-30-2020
-[2021.05.27-10.37.54:566][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
-[2021.05.27-10.37.54:638][  0]LogD3D11RHI: RHI has support for 64 bit atomics
-[2021.05.27-10.37.54:638][  0]LogD3D11RHI: Async texture creation enabled
-[2021.05.27-10.37.54:638][  0]LogD3D11RHI: Array index from any shader is supported
-[2021.05.27-10.37.54:671][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2021.05.27-10.37.54:674][  0]LogRHI: GeForceNow SDK initialized: 1
-[2021.05.27-10.37.55:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
-[2021.05.27-10.37.55:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
-[2021.05.27-10.37.55:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
-[2021.05.27-10.37.55:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
-[2021.05.27-10.37.55:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
-[2021.05.27-10.37.55:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
-[2021.05.27-10.37.55:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
-[2021.05.27-10.37.55:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
-[2021.05.27-10.37.55:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
-[2021.05.27-10.37.55:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
-[2021.05.27-10.37.55:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
-[2021.05.27-10.37.55:234][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
-[2021.05.27-10.37.55:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
-[2021.05.27-10.37.55:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
-[2021.05.27-10.37.55:386][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
-[2021.05.27-10.37.55:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
-[2021.05.27-10.37.55:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
-[2021.05.27-10.37.55:609][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
-[2021.05.27-10.37.55:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
-[2021.05.27-10.37.55:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
-[2021.05.27-10.37.55:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
-[2021.05.27-10.37.55:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
-[2021.05.27-10.37.55:860][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
-[2021.05.27-10.37.55:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
-[2021.05.27-10.37.55:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
-[2021.05.27-10.37.55:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
-[2021.05.27-10.37.55:964][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
-[2021.05.27-10.37.55:964][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
-[2021.05.27-10.37.55:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
-[2021.05.27-10.37.56:002][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
-[2021.05.27-10.37.56:020][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
-[2021.05.27-10.37.56:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
-[2021.05.27-10.37.56:032][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2021.05.27-10.37.56:119][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2021.05.27-10.37.56:712][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
-[2021.05.27-10.37.56:712][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Intermediate/Shaders/WorkingDirectory/10828/).
-[2021.05.27-10.37.56:713][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/CEDRIC/AppData/Local/Temp/UnrealShaderWorkingDir/62834C484A8E9CECE6C56FB947035682/'.
-[2021.05.27-10.37.56:713][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2021.05.27-10.37.56:714][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2021.05.27-10.38.04:437][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2021.05.27-10.38.05:307][  0]LogDerivedDataCache: Loaded boot cache 0.86s 77MB C:/Users/CEDRIC/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
-[2021.05.27-10.38.05:307][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/CEDRIC/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
-[2021.05.27-10.38.05:307][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2021.05.27-10.38.05:307][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2021.05.27-10.38.05:307][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2021.05.27-10.38.05:307][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2021.05.27-10.38.05:473][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2021.05.27-10.38.05:473][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2021.05.27-10.38.05:473][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2021.05.27-10.38.06:047][  0]LogDerivedDataCache: Speed tests for C:/Users/CEDRIC/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.57 seconds
-[2021.05.27-10.38.06:047][  0]LogDerivedDataCache: Display: Performance to C:/Users/CEDRIC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=23.20ms. RandomReadSpeed=4.20MBs, RandomWriteSpeed=12.65MBs. Assigned SpeedClass 'Ok'
-[2021.05.27-10.38.06:049][  0]LogDerivedDataCache: Using Local data cache path C:/Users/CEDRIC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2021.05.27-10.38.06:049][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2021.05.27-10.38.06:049][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2021.05.27-10.38.06:121][  0]LogSlate: Using FreeType 2.10.0
-[2021.05.27-10.38.06:202][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2021.05.27-10.38.07:579][  0]LogAssetRegistry: FAssetRegistry took 0.0097 seconds to start up
-[2021.05.27-10.38.08:313][  0]LogInit: Selected Device Profile: [Windows]
-[2021.05.27-10.38.08:313][  0]LogInit: Active device profile: [0000024C37EA2300][0000024C34F10180 49] Windows
-[2021.05.27-10.38.08:314][  0]LogInit: Profiles: [0000024C37EA2300][0000024C34F10180 49] Windows, [0000024C37E35D00][0000024C36AFE300 49] WindowsNoEditor, [0000024C37EA2F00][0000024C36B02480 49] WindowsServer, [0000024C37E35000][0000024C36B06600 49] WindowsClient, [0000024C37EA0D00][0000024C36B0A780 49] IOS, [0000024C37E36F00][0000024C36B0E900 49] iPadAir, [0000024C37EA2000][0000024C36B12A80 49] iPadAir2, [0000024C37DDDD00][0000024C36B1AD40 49] IPadPro, [0000024C37DDDE00][0000024C36B16D80 49] iPadAir3, [0000024C37E36D00][0000024C36B1EF00 49] iPadAir4, [0000024C37DDF500][0000024C36B23080 49] iPadMini2, [0000024C37E35300][0000024C36B27200 49] iPadMini3, [0000024C37DDD700][0000024C36B2B380 49] iPadMini4, [0000024C37E36400][0000024C36B2F500 49] iPadMini5, [0000024C37DF9300][0000024C36B33740 49] iPhone6, [0000024C37DF9400][0000024C36AFB780 49] iPodTouch6, [0000024C37EA1900][0000024C36B3B9C0 49] iPhone7, [0000024C37EA2D00][0000024C36B37A00 49] iPodTouch7, [0000024C37DFB300][0000024C36B43B80 49] iPhone5S, [0000024C37EA0B00][0000024C36B47D00 49] iPhone6Plus, [0000024C37DFB400][0000024C36B4A1C0 49] iPhone6S, [0000024C37EA0700][0000024C38B60340 49] iPhone6SPlus, [0000024C37E37300][0000024C38B644C0 49] iPhone7Plus, [0000024C37DF8D00][0000024C38B68640 49] iPhoneSE, [0000024C37E34900][0000024C38B6C7C0 49] iPhone8, [0000024C37DFA900][0000024C38B70940 49] iPhone8Plus, [0000024C37E37A00][0000024C38B74AC0 49] iPhoneX, [0000024C37DF8E00][0000024C38B78C40 49] iPhoneXS, [0000024C37E34B00][0000024C38B7CDC0 49] iPhoneXSMax, [0000024C37DFAF00][0000024C38B80F40 49] iPhoneXR, [0000024C37E34200][0000024C38B850C0 49] iPhone11, [0000024C37DFA700][0000024C38B89240 49] iPhone11Pro, [0000024C37E37100][0000024C38B8D3C0 49] iPhone11ProMax, [0000024C37DFBC00][0000024C38B91540 49] iPhoneSE2, [0000024C37E36300][0000024C36B3F680 49] iPhone12Mini, [0000024C37DF9C00][0000024C38B957C0 49] iPhone12, [0000024C37E34500][0000024C38B99900 49] iPhone12Pro, [0000024C37EA0A00][0000024C38B9DA40 49] iPhone12ProMax, [0000024C37E35100][0000024C38BA5BC0 49] iPadPro105, [0000024C37EA2200][0000024C38BA9D40 49] iPadPro129, [0000024C37E37500][0000024C38BAC200 49] iPadPro97, [0000024C37EA3000][0000024C38BB0380 49] iPadPro2_129, [0000024C37E35A00][0000024C38BB4500 49] iPad5, [0000024C37EA1300][0000024C38BB8680 49] iPad6, [0000024C37E36900][0000024C38BBC800 49] iPad7, [0000024C37EA1400][0000024C38BC0980 49] iPad8, [0000024C37E34700][0000024C38BC4B00 49] iPadPro11, [0000024C37EA2B00][0000024C38BC8C80 49] iPadPro2_11, [0000024C37E37C00][0000024C38BCCE00 49] iPadPro3_129, [0000024C37EA1200][0000024C38BD0F80 49] iPadPro4_129, [0000024C37E34F00][0000024C38BD5100 49] AppleTV, [0000024C37EA1100][0000024C38BD9280 49] AppleTV4K, [0000024C37E34400][0000024C38BDD400 49] TVOS, [0000024C37EA1A00][0000024C38BE1580 49] Mac, [0000024C37E34100][0000024C38BE5700 49] MacClient, [0000024C37EA1800][0000024C38BA1840 49] MacNoEditor, [0000024C37E34A00][0000024C38BE9980 49] MacServer, [0000024C37EA1000][0000024C38BEDAC0 49] Linux, [0000024C37E35C00][0000024C38BF5C40 49] LinuxAArch64, [0000024C37EA0900][0000024C38BF8100 49] LinuxNoEditor, [0000024C37E34600][0000024C38BFC280 49] LinuxAArch64NoEditor, [0000024C37EA1C00][0000024C38C00400 49] LinuxClient, [0000024C37E34800][0000024C38C04580 49] LinuxAArch64Client, [0000024C37EA0600][0000024C38C08700 49] LinuxServer, [0000024C37E37900][0000024C38C0C880 49] LinuxAArch64Server, [0000024C37EA1B00][0000024C38C10A00 49] Android, [0000024C37E35200][0000024C38C14B80 49] Android_Low, [0000024C37EA1D00][0000024C38C18D00 49] Android_Mid, [0000024C37E36700][0000024C38C1CE80 49] Android_High, [0000024C37EA2600][0000024C38C21000 49] Android_Default, [0000024C37E36C00][0000024C38C25180 49] Android_Adreno4xx, [0000024C37EA0300][0000024C38C29300 49] Android_Adreno5xx_Low, [0000024C37DDE600][0000024C38C2D480 49] Android_Adreno5xx, [0000024C37DF8600][0000024C38C31600 49] Android_Adreno6xx, [0000024C37DDC800][0000024C38C35780 49] Android_Adreno6xx_Vulkan, [0000024C37DFBE00][0000024C38BF18C0 49] Android_Mali_T6xx, [0000024C37DDE500][0000024C38C39A00 49] Android_Mali_T7xx, [0000024C37DF9500][0000024C38C3DB40 49] Android_Mali_T8xx, [0000024C37DDDB00][0000024C38C45CC0 49] Android_Mali_G71, [0000024C37DFAC00][0000024C38C48180 49] Android_Mali_G72, [0000024C37DDF700][0000024C38C4C300 49] Android_Mali_G72_Vulkan, [0000024C37DFB800][0000024C38C50480 49] Android_Mali_G76, [0000024C37DDE100][0000024C38C54600 49] Android_Mali_G76_Vulkan, [0000024C37DF8100][0000024C38C58780 49] Android_Mali_G77, [0000024C37DDDA00][0000024C38C5C900 49] Android_Mali_G77_Vulkan, [0000024C37DFA500][0000024C38C60A80 49] Android_Vulkan_SM5, [0000024C37DDC600][0000024C38C64C00 49] Android_PowerVR_G6xxx, [0000024C37DF8400][0000024C38C68D80 49] Android_PowerVR_GT7xxx, [0000024C37DDED00][0000024C38C6CF00 49] Android_PowerVR_GE8xxx, [0000024C37DF9800][0000024C38C71080 49] Android_PowerVR_GM9xxx, [0000024C37DDC200][0000024C38C75200 49] Android_PowerVR_GM9xxx_Vulkan, [0000024C37DF9000][0000024C38C79380 49] Android_TegraK1, [0000024C37DDD100][0000024C38C7D500 49] Android_Unknown_Vulkan, [0000024C37DFBF00][0000024C38C81680 49] Lumin, [0000024C37DDD500][0000024C38C85800 49] Lumin_Desktop, [0000024C37DF8800][0000024C38C41940 49] HoloLens, 
-[2021.05.27-10.38.09:367][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2021.05.27-10.38.09:367][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2021.05.27-10.38.09:367][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2021.05.27-10.38.09:367][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2021.05.27-10.38.09:367][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2021.05.27-10.38.09:921][  0]LogNetVersion: ToonTank 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2895488689)
-[2021.05.27-10.38.34:822][  0]LogHMD: PokeAHoleMaterial loaded successfully
-[2021.05.27-10.38.34:905][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.082723 seconds
-[2021.05.27-10.38.34:914][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
-[2021.05.27-10.38.34:914][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
-[2021.05.27-10.38.34:914][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2021.05.27-10.38.39:160][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2021.05.27-10.38.39:176][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2021.05.27-10.38.39:928][  0]SourceControl: Source control is disabled
-[2021.05.27-10.38.39:928][  0]SourceControl: Source control is disabled
-[2021.05.27-10.38.40:019][  0]SourceControl: Source control is disabled
-[2021.05.27-10.38.40:053][  0]SourceControl: Source control is disabled
-[2021.05.27-10.38.40:120][  0]SourceControl: Source control is disabled
-[2021.05.27-10.38.40:162][  0]LogUProjectInfo: Found projects:
-[2021.05.27-10.38.41:992][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2021.05.27-10.38.42:263][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2021.05.27-10.38.42:263][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2021.05.27-10.38.42:580][  0]LogCollectionManager: Loaded 0 collections in 0.002401 seconds
-[2021.05.27-10.38.42:723][  0]LogFileCache: Scanning file cache for directory 'C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Collections/' took 0.00s
-[2021.05.27-10.38.42:723][  0]LogFileCache: Scanning file cache for directory 'C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Content/Developers/CEDRIC/Collections/' took 0.00s
-[2021.05.27-10.38.42:723][  0]LogFileCache: Scanning file cache for directory 'C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Content/Collections/' took 0.00s
-[2021.05.27-10.38.42:723][  0]LogOcInput: OculusInput pre-init called
-[2021.05.27-10.38.42:760][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
-[2021.05.27-10.38.42:760][  0]LogWindows: File 'OVRPlugin.dll' does not exist
-[2021.05.27-10.38.43:074][  0]LogEngine: Initializing Engine...
-[2021.05.27-10.38.43:075][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2021.05.27-10.38.43:075][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
-[2021.05.27-10.38.43:076][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
-[2021.05.27-10.38.44:117][  0]LogInit: Initializing FReadOnlyCVARCache
-[2021.05.27-10.38.44:189][  0]LogAIModule: Creating AISystem for world Untitled
-[2021.05.27-10.38.44:191][  0]LogAudio: Display: Initializing Audio Device Manager...
-[2021.05.27-10.38.44:250][  0]LogAudio: Display: Audio Device Manager Initialized
-[2021.05.27-10.38.44:250][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
-[2021.05.27-10.38.44:250][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2021.05.27-10.38.44:251][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2021.05.27-10.38.44:251][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2021.05.27-10.38.44:251][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2021.05.27-10.38.44:251][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2021.05.27-10.38.44:251][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2021.05.27-10.38.44:251][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2021.05.27-10.38.44:251][  0]LogAudio: Display: AudioDevice MaxSources: 32
-[2021.05.27-10.38.44:252][  0]LogAudio: Display: Using built-in audio occlusion.
-[2021.05.27-10.38.44:252][  0]LogAudioMixer: Display: Initializing audio mixer.
-[2021.05.27-10.38.44:603][  0]LogAudioMixer: Display: 0: FrontLeft
-[2021.05.27-10.38.44:603][  0]LogAudioMixer: Display: 1: FrontRight
-[2021.05.27-10.38.44:864][  0]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
-[2021.05.27-10.38.44:864][  0]LogAudioMixer: Display: Initializing Sound Submixes...
-[2021.05.27-10.38.44:945][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2021.05.27-10.38.44:945][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2021.05.27-10.38.44:946][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2021.05.27-10.38.44:946][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
-[2021.05.27-10.38.44:946][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
-[2021.05.27-10.38.44:947][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
-[2021.05.27-10.38.44:947][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
-[2021.05.27-10.38.44:947][  0]LogInit: FAudioDevice initialized.
-[2021.05.27-10.38.44:947][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
-[2021.05.27-10.38.44:947][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2021.05.27-10.38.45:631][  0]LogDerivedDataCache: Saved boot cache 0.68s 77MB C:/Users/CEDRIC/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
-[2021.05.27-10.38.45:636][  0]LogInit: Texture streaming: Enabled
-[2021.05.27-10.38.45:927][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
-[2021.05.27-10.38.45:942][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2021.05.27-10.38.45:942][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
-[2021.05.27-10.38.46:090][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
-[2021.05.27-10.38.46:852][  0]LogInit: Transaction tracking system initialized
-[2021.05.27-10.38.48:011][  0]BlueprintLog: New page: Editor Load
-[2021.05.27-10.38.51:411][  0]LocalizationService: Localization service is disabled
-[2021.05.27-10.38.52:761][  0]TimingProfiler: Initialize
-[2021.05.27-10.38.52:762][  0]TimingProfiler: OnSessionChanged
-[2021.05.27-10.38.52:762][  0]LoadingProfiler: Initialize
-[2021.05.27-10.38.52:762][  0]LoadingProfiler: OnSessionChanged
-[2021.05.27-10.38.52:762][  0]NetworkingProfiler: Initialize
-[2021.05.27-10.38.52:762][  0]NetworkingProfiler: OnSessionChanged
-[2021.05.27-10.38.52:763][  0]MemoryProfiler: Initialize
-[2021.05.27-10.38.52:763][  0]MemoryProfiler: OnSessionChanged
-[2021.05.27-10.39.00:555][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
-[2021.05.27-10.39.00:555][  0]LogCook: Display: Mobile HDR setting 1
-[2021.05.27-10.39.00:736][  0]LogFileCache: Scanning file cache for directory 'C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Content/' took 0.08s
-[2021.05.27-10.39.06:633][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
-[2021.05.27-10.39.06:720][  0]SourceControl: Source control is disabled
-[2021.05.27-10.39.06:720][  0]LogUnrealEdMisc: Loading editor; pre map load, took 96.419
-[2021.05.27-10.39.06:721][  0]Cmd: MAP LOAD FILE="../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2021.05.27-10.39.06:723][  0]LightingResults: New page: Lighting Build
-[2021.05.27-10.39.06:832][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
-[2021.05.27-10.39.06:833][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.05.27-10.39.06:833][  0]MapCheck: New page: Map Check
-[2021.05.27-10.39.06:833][  0]LightingResults: New page: Lighting Build
-[2021.05.27-10.39.06:859][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Engine.ini]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Engine.ini]
+[2021.05.27-10.40.37:540][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Engine.ini]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Engine.ini]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.27-10.40.37:540][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Engine.ini]
+[2021.05.27-10.40.37:540][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Engine.ini]
+[2021.05.27-10.40.37:555][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.27-10.40.37:555][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.27-10.40.37:556][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.27-10.40.37:556][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.27-10.40.37:556][  0]LogHAL: Display: Platform has ~ 16 GB [17112870912 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.27-10.40.37:556][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.27-10.40.37:556][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.27-10.40.37:556][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Scalability.ini]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.27-10.40.37:557][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.27-10.40.37:558][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.27-10.40.37:558][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.27-10.40.37:558][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.27-10.40.37:558][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Engine.ini]
+[2021.05.27-10.40.37:558][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Config/Windows/Editor.ini]
+[2021.05.27-10.40.37:558][  0]LogInit: Computer: DESKTOP-J27Q8IV
+[2021.05.27-10.40.37:558][  0]LogInit: User: CEDRIC
+[2021.05.27-10.40.37:558][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.05.27-10.40.37:558][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.27-10.40.37:558][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.05.27-10.40.37:558][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.27-10.40.37:558][  0]LogMemory: Process Physical Memory: 131.62 MB used, 131.62 MB peak
+[2021.05.27-10.40.37:558][  0]LogMemory: Process Virtual Memory: 108.89 MB used, 108.89 MB peak
+[2021.05.27-10.40.37:558][  0]LogMemory: Physical Memory: 6494.85 MB used,  9825.25 MB free, 16320.11 MB total
+[2021.05.27-10.40.37:558][  0]LogMemory: Virtual Memory: 134196496.00 MB used,  21235.50 MB free, 134217728.00 MB total
+[2021.05.27-10.40.37:563][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.27-10.40.37:604][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.27-10.40.37:605][  0]LogInit: Using OS detected language (fr-FR).
+[2021.05.27-10.40.37:605][  0]LogInit: Using OS detected locale (fr-FR).
+[2021.05.27-10.40.37:609][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2021.05.27-10.40.37:610][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2021.05.27-10.40.37:610][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2021.05.27-10.40.37:610][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2021.05.27-10.40.37:610][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2021.05.27-10.40.37:610][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2021.05.27-10.40.37:610][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2021.05.27-10.40.37:610][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2021.05.27-10.40.37:611][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.27-10.40.37:623][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.27-10.40.37:644][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.27-10.40.37:644][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.27-10.40.37:796][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.27-10.40.37:796][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.27-10.40.37:796][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.27-10.40.37:796][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.27-10.40.37:879][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2021.05.27-10.40.37:879][  0]LogD3D11RHI:       8088/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.05.27-10.40.37:882][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.27-10.40.37:882][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.27-10.40.37:882][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.27-10.40.37:887][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.27-10.40.37:888][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.27-10.40.37:888][  0]LogWindows: EnumDisplayDevices:
+[2021.05.27-10.40.37:888][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2021.05.27-10.40.37:888][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2021.05.27-10.40.37:888][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.05.27-10.40.37:888][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.05.27-10.40.37:888][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.05.27-10.40.37:888][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2021.05.27-10.40.37:889][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.05.27-10.40.37:889][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.05.27-10.40.37:889][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2021.05.27-10.40.37:946][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.27-10.40.37:946][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.27-10.40.37:947][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.27-10.40.37:965][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.27-10.40.37:967][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.27-10.40.38:352][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.27-10.40.38:374][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.27-10.40.38:374][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.27-10.40.38:374][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.27-10.40.38:374][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.27-10.40.38:374][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.27-10.40.38:374][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.27-10.40.38:374][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.27-10.40.38:374][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.27-10.40.38:374][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.27-10.40.38:374][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.27-10.40.38:396][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.27-10.40.38:396][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.27-10.40.38:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.27-10.40.38:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.27-10.40.38:424][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.27-10.40.38:432][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.27-10.40.38:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.27-10.40.38:449][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.27-10.40.38:458][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.27-10.40.38:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.27-10.40.38:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.27-10.40.38:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.27-10.40.38:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.27-10.40.38:509][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.27-10.40.38:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.27-10.40.38:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.27-10.40.38:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.27-10.40.38:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.27-10.40.38:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.27-10.40.38:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.27-10.40.38:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.27-10.40.38:569][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.27-10.40.38:576][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.27-10.40.38:641][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.27-10.40.38:641][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Intermediate/Shaders/WorkingDirectory/18428/).
+[2021.05.27-10.40.38:641][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/CEDRIC/AppData/Local/Temp/UnrealShaderWorkingDir/6212D58E4CAE263D7DBE598E9CE7AE35/'.
+[2021.05.27-10.40.38:641][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.27-10.40.38:641][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.27-10.40.39:389][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.27-10.40.39:439][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/CEDRIC/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.27-10.40.39:439][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/CEDRIC/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.27-10.40.39:439][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.27-10.40.39:439][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.27-10.40.39:439][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.27-10.40.39:439][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.27-10.40.39:450][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.27-10.40.39:450][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.27-10.40.39:450][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.27-10.40.39:486][  0]LogDerivedDataCache: Speed tests for C:/Users/CEDRIC/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2021.05.27-10.40.39:486][  0]LogDerivedDataCache: Display: Performance to C:/Users/CEDRIC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=1132.94MBs, RandomWriteSpeed=27.37MBs. Assigned SpeedClass 'Local'
+[2021.05.27-10.40.39:487][  0]LogDerivedDataCache: Using Local data cache path C:/Users/CEDRIC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.27-10.40.39:487][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.27-10.40.39:487][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.27-10.40.39:540][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.27-10.40.39:540][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.27-10.40.39:567][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2021.05.27-10.40.39:809][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.27-10.40.39:809][  0]LogInit: Active device profile: [0000021EBF1DB100][0000021EBD5522C0 49] Windows
+[2021.05.27-10.40.39:809][  0]LogInit: Profiles: [0000021EBF1DB100][0000021EBD5522C0 49] Windows, [0000021EBF1D5100][0000021EBDFD6440 49] WindowsNoEditor, [0000021EBF1D9100][0000021EBDFDA5C0 49] WindowsServer, [0000021EBF1D6900][0000021EBDFDE740 49] WindowsClient, [0000021EBF1DA800][0000021EBDFE28C0 49] IOS, [0000021EBF1D5A00][0000021EBDFE6A40 49] iPadAir, [0000021EBF1D9900][0000021EBDFF6BC0 49] iPadAir2, [0000021EBFF40300][0000021EBDFFEE80 49] IPadPro, [0000021EBFF40400][0000021EBDFFAEC0 49] iPadAir3, [0000021EBF1DB300][0000021EBE00B040 49] iPadAir4, [0000021EBFF42C00][0000021EBE00F1C0 49] iPadMini2, [0000021EBF1D8F00][0000021EBE013340 49] iPadMini3, [0000021EBFF41F00][0000021EBE0174C0 49] iPadMini4, [0000021EBF1DAC00][0000021EBD557600 49] iPadMini5, [0000021EBFF2FB00][0000021EBE02B840 49] iPhone6, [0000021EBFF2FC00][0000021EBE027880 49] iPodTouch6, [0000021EBFF42600][0000021EBE037B00 49] iPhone7, [0000021EBFF42700][0000021EBE02FB40 49] iPodTouch7, [0000021EBFF2D500][0000021EBE03BCC0 49] iPhone5S, [0000021EBFF42100][0000021EBE03E180 49] iPhone6Plus, [0000021EBFF2E400][0000021EBE042300 49] iPhone6S, [0000021EBFF43400][0000021EBE046480 49] iPhone6SPlus, [0000021EBFF2DD00][0000021EBE04A600 49] iPhone7Plus, [0000021EBFF42E00][0000021EBE04E780 49] iPhoneSE, [0000021EBFF2E600][0000021EBE052900 49] iPhone8, [0000021EBFF43A00][0000021EBE056A80 49] iPhone8Plus, [0000021EBFF2D900][0000021EBE05AC00 49] iPhoneX, [0000021EBFF43700][0000021EBE05ED80 49] iPhoneXS, [0000021EBFF2F200][0000021EBE062F00 49] iPhoneXSMax, [0000021EBFF42400][0000021EBE087080 49] iPhoneXR, [0000021EBFF2E800][0000021EBE08B200 49] iPhone11, [0000021EBFF41000][0000021EBE08F380 49] iPhone11Pro, [0000021EBFF2D400][0000021EBE093500 49] iPhone11ProMax, [0000021EBFF41600][0000021EBE033640 49] iPhoneSE2, [0000021EBFF2EA00][0000021EBE097780 49] iPhone12Mini, [0000021EBFF41C00][0000021EBE09B8C0 49] iPhone12, [0000021EBFF2E900][0000021EBE09FA00 49] iPhone12Pro, [0000021EBFF42300][0000021EBE0A7B80 49] iPhone12ProMax, [0000021EBFF2D700][0000021EBE0ABD00 49] iPadPro105, [0000021EBFF40F00][0000021EBE0AE1C0 49] iPadPro129, [0000021EBFF2F600][0000021EBE0B2340 49] iPadPro97, [0000021EBFF40800][0000021EBE0B64C0 49] iPadPro2_129, [0000021EBFF2ED00][0000021EBE0BA640 49] iPad5, [0000021EBFF40500][0000021EBE0BE7C0 49] iPad6, [0000021EBFF2C600][0000021EBE0C2940 49] iPad7, [0000021EBFF41400][0000021EBE0C6AC0 49] iPad8, [0000021EBFF2F000][0000021EBE0CAC40 49] iPadPro11, [0000021EBFF43300][0000021EBE0CEDC0 49] iPadPro2_11, [0000021EBFF2EC00][0000021EBE0D2F40 49] iPadPro3_129, [0000021EBFF40700][0000021EBE0D70C0 49] iPadPro4_129, [0000021EBFF2FE00][0000021EBE0DB240 49] AppleTV, [0000021EBFF42900][0000021EBE0DF3C0 49] AppleTV4K, [0000021EBFF2E700][0000021EBE0E3540 49] TVOS, [0000021EBFF42A00][0000021EBE0E76C0 49] Mac, [0000021EBFF2F800][0000021EBE0A3800 49] MacClient, [0000021EBFF42200][0000021EBE0EB940 49] MacNoEditor, [0000021EBFF2CC00][0000021EBE0EFA80 49] MacServer, [0000021EBFF40A00][0000021EBE0F7C00 49] Linux, [0000021EBF1D4900][0000021EBE0FA0C0 49] LinuxAArch64, [0000021EBF319000][0000021EBE0FE240 49] LinuxNoEditor, [0000021EBF1D7D00][0000021EBE1023C0 49] LinuxAArch64NoEditor, [0000021EBF319200][0000021EBE106540 49] LinuxClient, [0000021EBF1D4A00][0000021EBE10A6C0 49] LinuxAArch64Client, [0000021EBF319300][0000021EBE10E840 49] LinuxServer, [0000021EBF1D4200][0000021EBE1129C0 49] LinuxAArch64Server, [0000021EBF318A00][0000021EBE116B40 49] Android, [0000021EBF1D5900][0000021EBE11ACC0 49] Android_Low, [0000021EBF319700][0000021EBE11EE40 49] Android_Mid, [0000021EBF1D7800][0000021EBE122FC0 49] Android_High, [0000021EBF318100][0000021EBE127140 49] Android_Default, [0000021EBF1D7000][0000021EBE12B2C0 49] Android_Adreno4xx, [0000021EBF319600][0000021EBE12F440 49] Android_Adreno5xx_Low, [0000021EBF1D6000][0000021EBE1335C0 49] Android_Adreno5xx, [0000021EBF318C00][0000021EBE137740 49] Android_Adreno6xx, [0000021EBF1D5F00][0000021EBE0F3880 49] Android_Adreno6xx_Vulkan, [0000021EBF318D00][0000021EBE13B9C0 49] Android_Mali_T6xx, [0000021EBF1D4D00][0000021EBE13FB00 49] Android_Mali_T7xx, [0000021EBFF42000][0000021EBE143C40 49] Android_Mali_T8xx, [0000021EBF1D4600][0000021EBE14A100 49] Android_Mali_G71, [0000021EBFF41900][0000021EBE14E280 49] Android_Mali_G72, [0000021EBF1D7400][0000021EBE152400 49] Android_Mali_G72_Vulkan, [0000021EBFF42B00][0000021EBE156580 49] Android_Mali_G76, [0000021EBF1D5400][0000021EBE15A700 49] Android_Mali_G76_Vulkan, [0000021EBFF43900][0000021EBE15E880 49] Android_Mali_G77, [0000021EBF1D5600][0000021EBE162A00 49] Android_Mali_G77_Vulkan, [0000021EBFF40D00][0000021EBE166B80 49] Android_Vulkan_SM5, [0000021EBF1D7900][0000021EBE16AD00 49] Android_PowerVR_G6xxx, [0000021EBFF43100][0000021EBE16EE80 49] Android_PowerVR_GT7xxx, [0000021EBF1D4700][0000021EBE173000 49] Android_PowerVR_GE8xxx, [0000021EBFF43D00][0000021EBE177180 49] Android_PowerVR_GM9xxx, [0000021EBF1D7F00][0000021EBE17B300 49] Android_PowerVR_GM9xxx_Vulkan, [0000021EBFF41D00][0000021EBE17F480 49] Android_TegraK1, [0000021EBF1D6400][0000021EBE183600 49] Android_Unknown_Vulkan, [0000021EBFF42800][0000021EBE187780 49] Lumin, [0000021EBF1D6700][0000021EBE1478C0 49] Lumin_Desktop, [0000021EBFF42F00][0000021EBE18BA00 49] HoloLens, 
+[2021.05.27-10.40.39:851][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.27-10.40.39:851][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.27-10.40.39:851][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.27-10.40.39:851][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.27-10.40.39:851][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.27-10.40.39:937][  0]LogNetVersion: ToonTank 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2895488689)
+[2021.05.27-10.40.40:396][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.27-10.40.40:447][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.050728 seconds
+[2021.05.27-10.40.40:452][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.05.27-10.40.40:452][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.05.27-10.40.40:452][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.27-10.40.40:734][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.27-10.40.40:738][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.27-10.40.40:932][  0]SourceControl: Source control is disabled
+[2021.05.27-10.40.40:932][  0]SourceControl: Source control is disabled
+[2021.05.27-10.40.40:943][  0]SourceControl: Source control is disabled
+[2021.05.27-10.40.40:948][  0]SourceControl: Source control is disabled
+[2021.05.27-10.40.40:955][  0]SourceControl: Source control is disabled
+[2021.05.27-10.40.40:960][  0]LogUProjectInfo: Found projects:
+[2021.05.27-10.40.41:142][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.27-10.40.41:160][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.27-10.40.41:160][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.27-10.40.41:268][  0]LogOcInput: OculusInput pre-init called
+[2021.05.27-10.40.41:281][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.27-10.40.41:281][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.27-10.40.41:289][  0]LogCollectionManager: Loaded 0 collections in 0.001792 seconds
+[2021.05.27-10.40.41:315][  0]LogFileCache: Scanning file cache for directory 'C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Collections/' took 0.00s
+[2021.05.27-10.40.41:315][  0]LogFileCache: Scanning file cache for directory 'C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Content/Developers/CEDRIC/Collections/' took 0.00s
+[2021.05.27-10.40.41:315][  0]LogFileCache: Scanning file cache for directory 'C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Content/Collections/' took 0.00s
+[2021.05.27-10.40.41:337][  0]LogEngine: Initializing Engine...
+[2021.05.27-10.40.41:339][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.27-10.40.41:339][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.27-10.40.41:340][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.27-10.40.41:442][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.27-10.40.41:450][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.27-10.40.41:464][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.27-10.40.41:468][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.27-10.40.41:468][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.27-10.40.41:468][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.27-10.40.41:468][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.27-10.40.41:468][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.27-10.40.41:468][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.27-10.40.41:468][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.27-10.40.41:468][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.27-10.40.41:468][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.27-10.40.41:468][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.27-10.40.41:469][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.27-10.40.41:469][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.27-10.40.41:484][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.27-10.40.41:484][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.27-10.40.41:518][  0]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2021.05.27-10.40.41:524][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.27-10.40.41:526][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.27-10.40.41:526][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.27-10.40.41:527][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.27-10.40.41:527][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.27-10.40.41:527][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.27-10.40.41:527][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.27-10.40.41:527][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.27-10.40.41:527][  0]LogInit: FAudioDevice initialized.
+[2021.05.27-10.40.41:528][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.27-10.40.41:528][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.27-10.40.41:853][  0]LogDerivedDataCache: Saved boot cache 0.33s 77MB C:/Users/CEDRIC/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.27-10.40.41:858][  0]LogInit: Texture streaming: Enabled
+[2021.05.27-10.40.41:885][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.05.27-10.40.41:897][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.27-10.40.41:897][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.27-10.40.41:900][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.27-10.40.41:929][  0]LogInit: Transaction tracking system initialized
+[2021.05.27-10.40.41:949][  0]BlueprintLog: New page: Editor Load
+[2021.05.27-10.40.42:024][  0]LocalizationService: Localization service is disabled
+[2021.05.27-10.40.42:048][  0]TimingProfiler: Initialize
+[2021.05.27-10.40.42:049][  0]TimingProfiler: OnSessionChanged
+[2021.05.27-10.40.42:049][  0]LoadingProfiler: Initialize
+[2021.05.27-10.40.42:049][  0]LoadingProfiler: OnSessionChanged
+[2021.05.27-10.40.42:049][  0]NetworkingProfiler: Initialize
+[2021.05.27-10.40.42:049][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.27-10.40.42:049][  0]MemoryProfiler: Initialize
+[2021.05.27-10.40.42:049][  0]MemoryProfiler: OnSessionChanged
+[2021.05.27-10.40.42:182][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.27-10.40.42:182][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.27-10.40.42:326][  0]LogFileCache: Scanning file cache for directory 'C:/Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Content/' took 0.01s
+[2021.05.27-10.40.42:513][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.27-10.40.42:516][  0]SourceControl: Source control is disabled
+[2021.05.27-10.40.42:516][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.143
+[2021.05.27-10.40.42:516][  0]Cmd: MAP LOAD FILE="../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.27-10.40.42:516][  0]LightingResults: New page: Lighting Build
+[2021.05.27-10.40.42:517][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-10.40.42:517][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-10.40.42:517][  0]MapCheck: New page: Map Check
+[2021.05.27-10.40.42:517][  0]LightingResults: New page: Lighting Build
+[2021.05.27-10.40.42:524][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.05.27-10.40.45:850][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2021.05.27-10.40.45:853][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.05.27-10.40.45:944][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.27-10.40.45:969][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.05.27-10.40.45:969][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.27-10.40.45:970][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,478ms to complete.
+[2021.05.27-10.40.45:970][  0]LogFileHelpers: Loading map 'Minimal_Default' took 3.454
+[2021.05.27-10.40.45:976][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.604
+[2021.05.27-10.40.46:468][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-10.40.46:493][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-10.40.46:508][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-10.40.46:522][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-10.40.46:693][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0375 seconds. Added 3608 classes and 866 folders.
+[2021.05.27-10.40.46:721][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2021.05.27-10.40.46:933][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.27-10.40.46:933][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-10.40.46:933][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.27-10.40.46:934][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.05.27-10.40.46:982][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.27-10.40.46:982][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-10.40.46:982][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.27-10.40.46:982][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.05.27-10.40.47:019][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.27-10.40.47:019][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-10.40.47:019][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.27-10.40.47:019][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.05.27-10.40.47:040][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.27-10.40.47:040][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-10.40.47:040][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.27-10.40.47:040][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.05.27-10.40.47:067][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.27-10.40.47:067][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-10.40.47:067][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.27-10.40.47:067][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.05.27-10.40.47:094][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.27-10.40.47:094][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-10.40.47:094][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.27-10.40.47:094][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.05.27-10.40.47:242][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.27-10.40.47:242][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-10.40.47:242][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.27-10.40.47:242][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.05.27-10.40.47:290][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.27-10.40.47:290][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-10.40.47:290][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.27-10.40.47:291][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2021.05.27-10.40.47:333][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.27-10.40.47:333][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-10.40.47:333][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.27-10.40.47:333][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2021.05.27-10.40.47:390][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.27-10.40.47:391][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-10.40.47:391][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.27-10.40.47:391][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2021.05.27-10.40.47:422][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.27-10.40.47:422][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-10.40.47:422][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.27-10.40.47:422][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2021.05.27-10.40.47:453][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.27-10.40.47:453][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-10.40.47:453][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.27-10.40.47:454][  0]LogPakFile: OnPakFileMounted2Time == 0.000105
+[2021.05.27-10.40.47:479][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.27-10.40.47:479][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-10.40.47:479][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.27-10.40.47:479][  0]LogPakFile: OnPakFileMounted2Time == 0.000110
+[2021.05.27-10.40.47:499][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.27-10.40.47:499][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-10.40.47:499][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.27-10.40.47:499][  0]LogPakFile: OnPakFileMounted2Time == 0.000115
+[2021.05.27-10.40.47:568][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.27-10.40.47:568][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-10.40.47:568][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.27-10.40.47:568][  0]LogPakFile: OnPakFileMounted2Time == 0.000123
+[2021.05.27-10.40.47:642][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.27-10.40.47:642][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-10.40.47:642][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.27-10.40.47:642][  0]LogPakFile: OnPakFileMounted2Time == 0.000130
+[2021.05.27-10.40.47:677][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.27-10.40.47:677][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-10.40.47:677][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.27-10.40.47:677][  0]LogPakFile: OnPakFileMounted2Time == 0.000138
+[2021.05.27-10.40.47:713][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.27-10.40.47:713][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-10.40.47:713][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.27-10.40.47:713][  0]LogPakFile: OnPakFileMounted2Time == 0.000145
+[2021.05.27-10.40.47:744][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.27-10.40.47:744][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-10.40.47:744][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.27-10.40.47:744][  0]LogPakFile: OnPakFileMounted2Time == 0.000153
+[2021.05.27-10.40.47:795][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.27-10.40.47:795][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-10.40.47:795][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.27-10.40.47:795][  0]LogPakFile: OnPakFileMounted2Time == 0.000161
+[2021.05.27-10.40.47:826][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.27-10.40.47:827][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-10.40.47:827][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.27-10.40.47:827][  0]LogPakFile: OnPakFileMounted2Time == 0.000168
+[2021.05.27-10.40.47:898][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.27-10.40.47:898][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-10.40.47:898][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.27-10.40.47:898][  0]LogPakFile: OnPakFileMounted2Time == 0.000178
+[2021.05.27-10.40.47:969][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.27-10.40.47:969][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-10.40.47:970][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.27-10.40.47:970][  0]LogPakFile: OnPakFileMounted2Time == 0.000186
+[2021.05.27-10.40.48:002][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.27-10.40.48:002][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-10.40.48:002][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.27-10.40.48:002][  0]LogPakFile: OnPakFileMounted2Time == 0.000194
+[2021.05.27-10.40.48:039][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.27-10.40.48:039][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-10.40.48:039][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.27-10.40.48:039][  0]LogPakFile: OnPakFileMounted2Time == 0.000204
+[2021.05.27-10.40.48:077][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.27-10.40.48:077][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.27-10.40.48:077][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.27-10.40.48:077][  0]LogPakFile: OnPakFileMounted2Time == 0.000211
+[2021.05.27-10.40.49:230][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2021.05.27-10.40.49:566][  0]LogSlate: Took 0.013526 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.27-10.40.49:586][  0]LogSlate: Took 0.007418 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.27-10.40.49:608][  0]LogSlate: Took 0.017347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.27-10.40.49:616][  0]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.27-10.40.49:895][  0]LogRenderer: Reallocating scene render targets to support 1192x588 Format 10 NumSamples 1 (Frame:1).
+[2021.05.27-10.40.50:114][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.27-10.40.50:115][  0]LogLoad: (Engine Initialization) Total time: 13.74 seconds
+[2021.05.27-10.40.50:115][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.27-10.40.50:115][  0]LogInit: First time updating LLM stats...
+[2021.05.27-10.40.50:154][  0]LogAssetRegistry: Asset discovery search completed in 10.5891 seconds
+[2021.05.27-10.40.50:155][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.05.27-10.40.50:184][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.27-10.43.17:067][581]LogSlate: Took 0.069289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.27-10.43.27:372][578]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.05.27-10.43.28:977][578]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.27-10.43.28:985][578]LogUObjectGlobals: Force Deleting 11 Package(s):
+	Asset Name: /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+	Asset Name: /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500
+	Asset Name: /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+	Asset Name: /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+	Asset Name: /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+	Asset Name: /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400
+	Asset Name: /Game/StarterContent/Architecture/Wall_500x500.Wall_500x500
+	Asset Name: /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+	Asset Name: /Game/StarterContent/Architecture/Wall_Door_400x400.Wall_Door_400x400
+	Asset Name: /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300
+[2021.05.27-10.43.28:989][578]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.27-10.43.31:363][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.05.27-10.43.31:369][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.43.31:374][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.27-10.43.31:378][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.43.31:383][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.27-10.43.31:386][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.05.27-10.43.31:391][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.27-10.43.31:395][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.43.31:399][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.43.31:403][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.05.27-10.43.31:408][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.43.31:412][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.05.27-10.43.31:416][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.05.27-10.43.47:915][450]LogSlate: Took 0.045344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.05.27-10.43.52:153][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.05.27-10.43.58:383][900]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.27-10.44.07:391][845]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.27-10.44.12:304][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.05.27-10.44.20:979][845]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.27-10.47.24:249][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.05.27-10.47.30:330][955]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.27-10.47.30:338][955]LogUObjectGlobals: Force Deleting 31 Package(s):
+	Asset Name: /Game/StarterContent/Props/Materials/M_Door.M_Door
+	Asset Name: /Game/StarterContent/Props/SM_Couch.SM_Couch
+	Asset Name: /Game/StarterContent/Props/Materials/M_Bush.M_Bush
+	Asset Name: /Game/StarterContent/Props/SM_Chair.SM_Chair
+	Asset Name: /Game/StarterContent/Props/MaterialSphere.MaterialSphere
+	Asset Name: /Game/StarterContent/Props/Materials/M_Chair.M_Chair
+	Asset Name: /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+	Asset Name: /Game/StarterContent/Props/SM_Bush.SM_Bush
+	Asset Name: /Game/StarterContent/Props/Materials/M_Frame.M_Frame
+	Asset Name: /Game/StarterContent/Props/SM_Door.SM_Door
+[2021.05.27-10.47.32:672][955]LogStaticMesh: Building static mesh SM_Couch...
+[2021.05.27-10.47.32:726][955]LogStaticMesh: Built static mesh [0.06s] /Game/StarterContent/Props/SM_Couch.SM_Couch
+[2021.05.27-10.47.32:826][955]LogStaticMesh: Building static mesh SM_Chair...
+[2021.05.27-10.47.32:849][955]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Props/SM_Chair.SM_Chair
+[2021.05.27-10.47.32:916][955]LogStaticMesh: Building static mesh SM_CornerFrame...
+[2021.05.27-10.47.32:919][955]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2021.05.27-10.47.32:951][955]LogStaticMesh: Building static mesh SM_Bush...
+[2021.05.27-10.47.32:956][955]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Props/SM_Bush.SM_Bush
+[2021.05.27-10.47.32:998][955]LogStaticMesh: Building static mesh SM_Door...
+[2021.05.27-10.47.33:018][955]LogStaticMesh: Built static mesh [0.06s] /Game/StarterContent/Props/SM_Door.SM_Door
+[2021.05.27-10.47.33:054][955]LogStaticMesh: Building static mesh SM_DoorFrame...
+[2021.05.27-10.47.33:055][955]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame
+[2021.05.27-10.47.33:161][955]LogStaticMesh: Building static mesh SM_Lamp_Ceiling...
+[2021.05.27-10.47.33:234][955]LogStaticMesh: Built static mesh [0.13s] /Game/StarterContent/Props/SM_Lamp_Ceiling.SM_Lamp_Ceiling
+[2021.05.27-10.47.33:358][955]LogStaticMesh: Building static mesh SM_Lamp_Wall...
+[2021.05.27-10.47.33:386][955]LogStaticMesh: Built static mesh [0.07s] /Game/StarterContent/Props/SM_Lamp_Wall.SM_Lamp_Wall
+[2021.05.27-10.47.33:494][955]LogStaticMesh: Building static mesh SM_MatPreviewMesh_02...
+[2021.05.27-10.47.33:773][955]LogStaticMesh: Built static mesh [0.28s] /Game/StarterContent/Props/SM_MatPreviewMesh_02.SM_MatPreviewMesh_02
+[2021.05.27-10.47.34:285][955]LogStaticMesh: Building static mesh SM_PillarFrame...
+[2021.05.27-10.47.34:310][955]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Props/SM_PillarFrame.SM_PillarFrame
+[2021.05.27-10.47.34:341][955]LogStaticMesh: Building static mesh SM_PillarFrame300...
+[2021.05.27-10.47.34:346][955]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Props/SM_PillarFrame300.SM_PillarFrame300
+[2021.05.27-10.47.34:473][955]LogStaticMesh: Building static mesh SM_Rock...
+[2021.05.27-10.47.34:513][955]LogStaticMesh: Built static mesh [0.11s] /Game/StarterContent/Props/SM_Rock.SM_Rock
+[2021.05.27-10.47.34:569][955]LogStaticMesh: Building static mesh SM_Shelf...
+[2021.05.27-10.47.34:584][955]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Props/SM_Shelf.SM_Shelf
+[2021.05.27-10.47.34:665][955]LogStaticMesh: Building static mesh SM_Statue...
+[2021.05.27-10.47.34:744][955]LogStaticMesh: Built static mesh [0.11s] /Game/StarterContent/Props/SM_Statue.SM_Statue
+[2021.05.27-10.47.35:064][955]LogStaticMesh: Building static mesh SM_TableRound...
+[2021.05.27-10.47.35:187][955]LogStaticMesh: Built static mesh [0.19s] /Game/StarterContent/Props/SM_TableRound.SM_TableRound
+[2021.05.27-10.47.35:453][955]LogStaticMesh: Building static mesh SM_WindowFrame...
+[2021.05.27-10.47.35:456][955]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/SM_WindowFrame.SM_WindowFrame
+[2021.05.27-10.47.35:818][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.05.27-10.47.35:825][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.27-10.47.35:829][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.47.35:834][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.27-10.47.35:838][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.47.35:843][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.05.27-10.47.35:847][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.47.35:851][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.47.35:856][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.05.27-10.47.35:861][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.47.35:866][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.47.35:870][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.47.35:874][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.47.35:879][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.27-10.47.35:883][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.27-10.47.35:887][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.47.35:892][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.27-10.47.35:896][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.47.35:900][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.47.35:905][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.47.35:910][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.27-10.47.35:914][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.47.35:918][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.47.35:923][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.47.35:927][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.27-10.47.35:932][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.47.35:936][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.47.35:941][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.47.35:945][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.47.35:950][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.27-10.47.35:955][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.27-10.47.35:960][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.05.27-10.47.35:965][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.27-10.48.41:344][311]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.27-10.48.42:945][311]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.05.27-10.48.58:826][311]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.27-10.48.58:858][311]LogUObjectGlobals: Force Deleting 103 Package(s):
+	Asset Name: /Game/StarterContent/Textures/T_Door_N.T_Door_N
+	Asset Name: /Game/StarterContent/Textures/T_Door_M.T_Door_M
+	Asset Name: /Game/StarterContent/Textures/T_Frame_N.T_Frame_N
+	Asset Name: /Game/StarterContent/Textures/T_Frame_M.T_Frame_M
+	Asset Name: /Game/StarterContent/Textures/T_Bush_N.T_Bush_N
+	Asset Name: /Game/StarterContent/Textures/T_Bush_D.T_Bush_D
+	Asset Name: /Game/StarterContent/Textures/T_Chair_N.T_Chair_N
+	Asset Name: /Game/StarterContent/Textures/T_Chair_M.T_Chair_M
+	Asset Name: /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation
+	Asset Name: /Game/StarterContent/Textures/T_Metal_Gold_D.T_Metal_Gold_D
+[2021.05.27-10.49.03:592][311]LogMaterial: Display: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2021.05.27-10.49.03:615][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:615][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:619][311]LogMaterial: Display: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2021.05.27-10.49.03:622][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:622][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:626][311]LogMaterial: Display: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2021.05.27-10.49.03:629][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:629][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:633][311]LogMaterial: Display: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2021.05.27-10.49.03:635][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:635][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:639][311]LogMaterial: Display: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2021.05.27-10.49.03:641][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:642][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:645][311]LogMaterial: Display: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2021.05.27-10.49.03:648][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:648][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:651][311]LogMaterial: Display: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2021.05.27-10.49.03:653][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:653][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:655][311]LogMaterial: Display: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2021.05.27-10.49.03:656][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:656][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:658][311]LogMaterial: Display: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2021.05.27-10.49.03:659][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:659][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:661][311]LogMaterial: Display: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2021.05.27-10.49.03:662][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:662][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:664][311]LogMaterial: Display: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2021.05.27-10.49.03:665][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:665][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:668][311]LogMaterial: Display: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2021.05.27-10.49.03:669][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:669][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:671][311]LogMaterial: Display: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2021.05.27-10.49.03:672][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:672][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:674][311]LogMaterial: Display: Missing cached shader map for material M_Burst, compiling. 
+[2021.05.27-10.49.03:675][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Particles\Materials\M_Burst.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:675][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:677][311]LogMaterial: Display: Missing cached shader map for material M_Burst, compiling. 
+[2021.05.27-10.49.03:678][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Particles\Materials\M_Burst.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:678][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:679][311]LogMaterial: Display: Missing cached shader map for material M_Burst, compiling. 
+[2021.05.27-10.49.03:681][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Particles\Materials\M_Burst.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:681][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:690][311]LogMaterial: Display: Missing cached shader map for material M_explosion_subUV, compiling. 
+[2021.05.27-10.49.03:690][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Particles\Materials\M_explosion_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:690][311]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2021.05.27-10.49.03:691][311]LogMaterial: Display: Missing cached shader map for material M_explosion_subUV, compiling. 
+[2021.05.27-10.49.03:692][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Particles\Materials\M_explosion_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:692][311]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2021.05.27-10.49.03:692][311]LogMaterial: Display: Missing cached shader map for material M_explosion_subUV, compiling. 
+[2021.05.27-10.49.03:693][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Particles\Materials\M_explosion_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:693][311]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2021.05.27-10.49.03:694][311]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2021.05.27-10.49.03:695][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Particles\Materials\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:695][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:695][311]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2021.05.27-10.49.03:696][311]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2021.05.27-10.49.03:696][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Particles\Materials\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:696][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:697][311]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2021.05.27-10.49.03:698][311]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2021.05.27-10.49.03:698][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Particles\Materials\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:698][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:698][311]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2021.05.27-10.49.03:699][311]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2021.05.27-10.49.03:700][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Particles\Materials\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:700][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:700][311]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2021.05.27-10.49.03:701][311]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2021.05.27-10.49.03:701][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Particles\Materials\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:701][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:701][311]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2021.05.27-10.49.03:703][311]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2021.05.27-10.49.03:703][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Particles\Materials\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:703][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:703][311]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2021.05.27-10.49.03:748][311]LogMaterial: Display: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2021.05.27-10.49.03:751][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Pine.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:751][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:755][311]LogMaterial: Display: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2021.05.27-10.49.03:757][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Pine.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:757][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:766][311]LogMaterial: Display: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2021.05.27-10.49.03:769][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Pine.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:769][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:773][311]LogMaterial: Display: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2021.05.27-10.49.03:775][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Pine.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:775][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:780][311]LogMaterial: Display: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2021.05.27-10.49.03:782][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Pine.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:782][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:786][311]LogMaterial: Display: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2021.05.27-10.49.03:789][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Pine.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:789][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:793][311]LogMaterial: Display: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2021.05.27-10.49.03:797][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Pine.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:797][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:801][311]LogMaterial: Display: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2021.05.27-10.49.03:802][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Pine.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:802][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:804][311]LogMaterial: Display: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2021.05.27-10.49.03:806][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Pine.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:806][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:808][311]LogMaterial: Display: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2021.05.27-10.49.03:809][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Pine.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:809][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:811][311]LogMaterial: Display: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2021.05.27-10.49.03:812][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Pine.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:813][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:814][311]LogMaterial: Display: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2021.05.27-10.49.03:816][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Pine.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:816][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:818][311]LogMaterial: Display: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2021.05.27-10.49.03:819][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Pine.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:820][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:822][311]LogMaterial: Display: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2021.05.27-10.49.03:823][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Pine.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:823][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:825][311]LogMaterial: Display: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2021.05.27-10.49.03:826][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Pine.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:826][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:828][311]LogMaterial: Display: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2021.05.27-10.49.03:830][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Pine.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:830][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.03:831][311]LogMaterial: Display: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2021.05.27-10.49.03:832][311]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Pine.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.03:832][311]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.04:515][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.05.27-10.49.04:541][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.05.27-10.49.04:546][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.05.27-10.49.04:551][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.05.27-10.49.04:556][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.05.27-10.49.04:561][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.05.27-10.49.04:567][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.05.27-10.49.04:572][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.05.27-10.49.04:577][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.27-10.49.04:582][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.05.27-10.49.04:587][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.05.27-10.49.04:591][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.27-10.49.04:596][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:600][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:604][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:608][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:613][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:617][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:621][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:625][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:629][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:634][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:638][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:642][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:647][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.27-10.49.04:651][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:655][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:659][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.27-10.49.04:663][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:667][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:672][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.05.27-10.49.04:676][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.27-10.49.04:680][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:684][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:688][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:692][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:697][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:701][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:705][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:710][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:714][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:719][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.27-10.49.04:723][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:728][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:733][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:737][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:741][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:745][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:749][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:753][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:758][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:762][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:767][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:771][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:775][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:779][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:784][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:788][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:792][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:796][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:801][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:805][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:809][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:813][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:818][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.27-10.49.04:822][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:827][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:831][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:835][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:839][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:843][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:848][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:852][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:856][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:860][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:864][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:869][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:873][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.05.27-10.49.04:877][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:881][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:885][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:889][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:894][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:898][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:902][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:906][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:910][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:914][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:918][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:923][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:927][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:931][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:936][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:941][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:945][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:949][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:953][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:958][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.27-10.49.04:962][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:968][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:972][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.05.27-10.49.04:976][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:980][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.04:985][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.05.27-10.49.04:989][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.27-10.49.54:471][ 14]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.27-10.49.54:477][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.27-10.49.54:477][ 14]PIE: New page: PIE session: Minimal_Default (27 mai 2021 à 14:49:54)
+[2021.05.27-10.49.54:479][ 14]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.05.27-10.49.54:480][ 14]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.05.27-10.49.54:481][ 14]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.27-10.49.54:489][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008445s)
+[2021.05.27-10.49.54:490][ 14]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.05.27-10.49.54:490][ 14]LogPlayLevel: PIE: World Init took: (0.001360s)
+[2021.05.27-10.49.54:491][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.009983s)
+[2021.05.27-10.49.54:496][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.05.27-10.49.54:497][ 14]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.05.27-10.49.54:497][ 14]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.27-10.49.54:497][ 14]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.27-10.49.54:497][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.27-10.49.54:497][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.27-10.49.54:497][ 14]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.27-10.49.54:497][ 14]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.27-10.49.54:497][ 14]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.27-10.49.54:497][ 14]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.27-10.49.54:497][ 14]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.27-10.49.54:497][ 14]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.27-10.49.54:502][ 14]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.27-10.49.54:502][ 14]LogAudioMixer: Display: 1: FrontRight
+[2021.05.27-10.49.54:519][ 14]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2021.05.27-10.49.54:519][ 14]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.27-10.49.54:519][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.27-10.49.54:519][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.27-10.49.54:519][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.27-10.49.54:519][ 14]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.27-10.49.54:519][ 14]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.27-10.49.54:533][ 14]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.27-10.49.54:533][ 14]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.27-10.49.54:533][ 14]LogInit: FAudioDevice initialized.
+[2021.05.27-10.49.54:533][ 14]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default'.
+[2021.05.27-10.49.54:594][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Metal_Gold.uasset: Failed to load '/Game/StarterContent/Textures/T_MacroVariation': Can't find file.
+[2021.05.27-10.49.54:597][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Metal_Gold.uasset: Failed to load '/Game/StarterContent/Textures/T_MacroVariation': Can't find file.
+[2021.05.27-10.49.54:598][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Metal_Gold.uasset: Failed to load '/Game/StarterContent/Textures/T_Metal_Gold_D': Can't find file.
+[2021.05.27-10.49.54:601][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Metal_Gold.uasset: Failed to load '/Game/StarterContent/Textures/T_Metal_Gold_D': Can't find file.
+[2021.05.27-10.49.54:602][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Metal_Gold.uasset: Failed to load '/Game/StarterContent/Textures/T_Metal_Gold_N': Can't find file.
+[2021.05.27-10.49.54:605][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Metal_Gold.uasset: Failed to load '/Game/StarterContent/Textures/T_Metal_Gold_N': Can't find file.
+[2021.05.27-10.49.54:606][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Metal_Gold.uasset: Failed to load '/Game/StarterContent/Textures/T_MacroVariation': Can't find file.
+[2021.05.27-10.49.54:608][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Metal_Gold.uasset: Failed to load '/Game/StarterContent/Textures/T_Metal_Gold_D': Can't find file.
+[2021.05.27-10.49.54:610][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Metal_Gold.uasset: Failed to load '/Game/StarterContent/Textures/T_Metal_Gold_N': Can't find file.
+[2021.05.27-10.49.54:618][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Particles\Materials\M_Burst.uasset: Failed to load '/Game/StarterContent/Textures/T_Burst_M': Can't find file.
+[2021.05.27-10.49.54:621][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Particles\Materials\M_Burst.uasset: Failed to load '/Game/StarterContent/Textures/T_Burst_M': Can't find file.
+[2021.05.27-10.49.54:622][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Particles\Materials\M_Burst.uasset: Failed to load '/Game/StarterContent/Textures/T_Burst_M': Can't find file.
+[2021.05.27-10.49.54:623][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Particles\Materials\M_explosion_subUV.uasset: Failed to load '/Game/StarterContent/Textures/T_Explosion_SubUV': Can't find file.
+[2021.05.27-10.49.54:624][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Particles\Materials\M_explosion_subUV.uasset: Failed to load '/Game/StarterContent/Textures/T_Explosion_SubUV': Can't find file.
+[2021.05.27-10.49.54:625][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Particles\Materials\M_explosion_subUV.uasset: Failed to load '/Game/StarterContent/Textures/T_Explosion_SubUV': Can't find file.
+[2021.05.27-10.49.54:629][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Particles\Materials\M_smoke_subUV.uasset: Failed to load '/Game/StarterContent/Textures/T_Smoke_SubUV': Can't find file.
+[2021.05.27-10.49.54:630][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Particles\Materials\M_smoke_subUV.uasset: Failed to load '/Game/StarterContent/Textures/T_Smoke_SubUV': Can't find file.
+[2021.05.27-10.49.54:631][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Particles\Materials\M_smoke_subUV.uasset: Failed to load '/Game/StarterContent/Textures/T_Smoke_Tiled_D': Can't find file.
+[2021.05.27-10.49.54:632][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Particles\Materials\M_smoke_subUV.uasset: Failed to load '/Game/StarterContent/Textures/T_Smoke_Tiled_D': Can't find file.
+[2021.05.27-10.49.54:633][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Particles\Materials\M_smoke_subUV.uasset: Failed to load '/Game/StarterContent/Textures/T_Smoke_SubUV': Can't find file.
+[2021.05.27-10.49.54:634][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Particles\Materials\M_smoke_subUV.uasset: Failed to load '/Game/StarterContent/Textures/T_Smoke_Tiled_D': Can't find file.
+[2021.05.27-10.49.54:637][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Oak.uasset: Failed to load '/Game/StarterContent/Textures/T_MacroVariation': Can't find file.
+[2021.05.27-10.49.54:638][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Oak.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Oak_D': Can't find file.
+[2021.05.27-10.49.54:639][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Oak.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Oak_D': Can't find file.
+[2021.05.27-10.49.54:640][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Oak.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Oak_N': Can't find file.
+[2021.05.27-10.49.54:641][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Oak.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Oak_N': Can't find file.
+[2021.05.27-10.49.54:642][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Oak.uasset: Failed to load '/Game/StarterContent/Textures/T_MacroVariation': Can't find file.
+[2021.05.27-10.49.54:643][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Oak.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Oak_D': Can't find file.
+[2021.05.27-10.49.54:644][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Oak.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Oak_N': Can't find file.
+[2021.05.27-10.49.54:922][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Oak.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Oak_D': Can't find file.
+[2021.05.27-10.49.54:922][ 14]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Wood_Oak_D.T_Wood_Oak_D Referenced by MaterialExpressionTextureSample_82
+[2021.05.27-10.49.54:923][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Oak.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Oak_N': Can't find file.
+[2021.05.27-10.49.54:923][ 14]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Wood_Oak_N.T_Wood_Oak_N Referenced by MaterialExpressionTextureSample_83
+[2021.05.27-10.49.54:924][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Oak.uasset: Failed to load '/Game/StarterContent/Textures/T_MacroVariation': Can't find file.
+[2021.05.27-10.49.54:924][ 14]LoadErrors: Failed to load /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation Referenced by MaterialExpressionTextureSample_85
+[2021.05.27-10.49.54:924][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Oak.uasset: Failed to load '/Game/StarterContent/Textures/T_MacroVariation': Can't find file.
+[2021.05.27-10.49.54:924][ 14]LoadErrors: Failed to load /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation Referenced by MaterialExpressionTextureSample_86
+[2021.05.27-10.49.54:925][ 14]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Oak.uasset: Failed to load '/Game/StarterContent/Textures/T_MacroVariation': Can't find file.
+[2021.05.27-10.49.54:925][ 14]LoadErrors: Failed to load /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation Referenced by MaterialExpressionTextureSample_87
+[2021.05.27-10.49.55:190][ 14]LogMaterial: Display: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2021.05.27-10.49.55:193][ 14]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Oak.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.49.55:193][ 14]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.49.55:196][ 14]LogLoad: Game class is 'BP_GameModeBase_C'
+[2021.05.27-10.49.55:215][ 14]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.05.27-12.49.55
+[2021.05.27-10.49.55:218][ 14]LogWorld: Bringing up level for play took: 0.017963
+[2021.05.27-10.49.55:219][ 14]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.05.27-10.49.55:262][ 14]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 20 classes and 0 folders.
+[2021.05.27-10.49.55:267][ 14]PIE: Server logged in
+[2021.05.27-10.49.55:272][ 14]PIE: Play in editor total start time 0,796 seconds.
+[2021.05.27-10.50.07:509][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-10.50.07:509][459]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.27-10.50.07:509][459]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-10.50.07:510][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-10.50.07:517][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.27-10.50.07:519][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-10.50.07:526][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-10.50.07:527][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.27-10.50.07:529][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.27-10.50.07:571][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.05.27-10.50.07:607][460]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.05.27-10.51.03:265][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.05.27-10.51.03:267][763]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.019
+[2021.05.27-10.51.03:269][763]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Metal_Gold] ([1] browsable assets)...
+[2021.05.27-10.51.03:308][763]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Metal_Gold.M_Metal_Gold]
+[2021.05.27-10.51.03:308][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Metal_Gold]
+[2021.05.27-10.51.03:329][763]LogSavePackage: Moving '../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/M_Metal_Gold_Auto10BE8CE614766DDAC472210A27A67562E.tmp' to '../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Autosaves/Game/StarterContent/Materials/M_Metal_Gold_Auto1.uasset'
+[2021.05.27-10.51.03:334][763]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Particles/Materials/M_Burst] ([1] browsable assets)...
+[2021.05.27-10.51.03:363][763]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Particles/Materials/M_Burst.M_Burst]
+[2021.05.27-10.51.03:363][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Particles/Materials/M_Burst]
+[2021.05.27-10.51.03:379][763]LogSavePackage: Moving '../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/M_Burst_Auto1535614C44455B00E48A28792DC0CB7BC.tmp' to '../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Autosaves/Game/StarterContent/Particles/Materials/M_Burst_Auto1.uasset'
+[2021.05.27-10.51.03:382][763]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Particles/Materials/M_explosion_subUV] ([1] browsable assets)...
+[2021.05.27-10.51.03:408][763]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Particles/Materials/M_explosion_subUV.M_explosion_subUV]
+[2021.05.27-10.51.03:408][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Particles/Materials/M_explosion_subUV]
+[2021.05.27-10.51.03:422][763]LogSavePackage: Moving '../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/M_explosion_subUV_Auto12FBF793E4770A3647364DE9F97A7920D.tmp' to '../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Autosaves/Game/StarterContent/Particles/Materials/M_explosion_subUV_Auto1.uasset'
+[2021.05.27-10.51.03:425][763]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Particles/Materials/M_smoke_subUV] ([1] browsable assets)...
+[2021.05.27-10.51.03:452][763]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Particles/Materials/M_smoke_subUV.M_smoke_subUV]
+[2021.05.27-10.51.03:452][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Particles/Materials/M_smoke_subUV]
+[2021.05.27-10.51.03:467][763]LogSavePackage: Moving '../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/M_smoke_subUV_Auto1F0353930426A02B9D9D3D6AA9AB8E906.tmp' to '../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Autosaves/Game/StarterContent/Particles/Materials/M_smoke_subUV_Auto1.uasset'
+[2021.05.27-10.51.03:478][763]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Wood_Pine] ([1] browsable assets)...
+[2021.05.27-10.51.03:494][763]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Wood_Pine.M_Wood_Pine]
+[2021.05.27-10.51.03:494][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Wood_Pine]
+[2021.05.27-10.51.03:511][763]LogSavePackage: Moving '../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/M_Wood_Pine_Auto15F81BFB4439DC7F9F3C2FB94E782C303.tmp' to '../../../../../Users/CEDRIC/Desktop/UE4_Courses/ToonTank/Saved/Autosaves/Game/StarterContent/Materials/M_Wood_Pine_Auto1.uasset'
+[2021.05.27-10.51.03:513][763]LogFileHelpers: Auto-saving content packages took 0.246
+[2021.05.27-10.52.33:681][260]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.05.27-10.52.34:515][260]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0020 seconds. Added 126 classes and 0 folders.
+[2021.05.27-10.52.39:763][533]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-10.52.39:764][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-10.52.39:813][533]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.05.27-10.52.40:323][533]LogBlueprintEditor: Perf: 0.5 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.05.27-10.52.40:323][533]LogBlueprintEditor: Perf: 0.2 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
+[2021.05.27-10.52.41:104][533]LogSlate: Took 0.038259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.27-10.52.42:516][647]LogSlate: Took 0.013571 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.27-10.52.44:160][790]LogRenderer: Reallocating scene render targets to support 1192x708 Format 10 NumSamples 1 (Frame:1).
+[2021.05.27-10.52.50:015][204]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to load '/Game/StarterContent/Textures/T_MacroVariation': Can't find file.
+[2021.05.27-10.52.50:015][204]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to load '/Game/StarterContent/Textures/T_MacroVariation': Can't find file.
+[2021.05.27-10.52.50:016][204]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_D': Can't find file.
+[2021.05.27-10.52.50:016][204]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_D': Can't find file.
+[2021.05.27-10.52.50:017][204]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_M': Can't find file.
+[2021.05.27-10.52.50:017][204]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_M': Can't find file.
+[2021.05.27-10.52.50:018][204]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_N': Can't find file.
+[2021.05.27-10.52.50:018][204]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_N': Can't find file.
+[2021.05.27-10.52.50:019][204]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to load '/Game/StarterContent/Textures/T_MacroVariation': Can't find file.
+[2021.05.27-10.52.50:019][204]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_D': Can't find file.
+[2021.05.27-10.52.50:019][204]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_M': Can't find file.
+[2021.05.27-10.52.50:020][204]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_N': Can't find file.
+[2021.05.27-10.52.50:021][204]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_D': Can't find file.
+[2021.05.27-10.52.50:021][204]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Wood_Floor_Walnut_D.T_Wood_Floor_Walnut_D Referenced by MaterialExpressionTextureSample_0
+[2021.05.27-10.52.50:021][204]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_N': Can't find file.
+[2021.05.27-10.52.50:021][204]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Wood_Floor_Walnut_N.T_Wood_Floor_Walnut_N Referenced by MaterialExpressionTextureSample_1
+[2021.05.27-10.52.50:022][204]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_M': Can't find file.
+[2021.05.27-10.52.50:022][204]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Wood_Floor_Walnut_M.T_Wood_Floor_Walnut_M Referenced by MaterialExpressionTextureSample_2
+[2021.05.27-10.52.50:022][204]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to load '/Game/StarterContent/Textures/T_MacroVariation': Can't find file.
+[2021.05.27-10.52.50:022][204]LoadErrors: Failed to load /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation Referenced by MaterialExpressionTextureSample_32
+[2021.05.27-10.52.50:022][204]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to load '/Game/StarterContent/Textures/T_MacroVariation': Can't find file.
+[2021.05.27-10.52.50:022][204]LoadErrors: Failed to load /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation Referenced by MaterialExpressionTextureSample_33
+[2021.05.27-10.52.50:023][204]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to load '/Game/StarterContent/Textures/T_MacroVariation': Can't find file.
+[2021.05.27-10.52.50:023][204]LoadErrors: Failed to load /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation Referenced by MaterialExpressionTextureSample_34
+[2021.05.27-10.52.50:041][204]LogMaterial: Display: Missing cached shader map for material M_Wood_Floor_Walnut_Worn, compiling. 
+[2021.05.27-10.52.50:041][204]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.52.50:041][204]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.52.50:041][204]LogMaterial: Display: 	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+[2021.05.27-10.52.50:041][204]LogMaterial: Display: 	(Node TextureSample) Alpha is AO> Missing input texture
+[2021.05.27-10.52.55:302][569]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Polished.uasset: Failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2021.05.27-10.52.55:303][569]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Polished.uasset: Failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2021.05.27-10.52.55:303][569]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Polished.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_D': Can't find file.
+[2021.05.27-10.52.55:304][569]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Polished.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_M': Can't find file.
+[2021.05.27-10.52.55:304][569]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Polished.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_N': Can't find file.
+[2021.05.27-10.52.55:304][569]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Polished.uasset: Failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2021.05.27-10.52.55:305][569]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Polished.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_D': Can't find file.
+[2021.05.27-10.52.55:305][569]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Polished.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_M': Can't find file.
+[2021.05.27-10.52.55:305][569]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Polished.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_N': Can't find file.
+[2021.05.27-10.52.55:306][569]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Polished.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_D': Can't find file.
+[2021.05.27-10.52.55:307][569]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Polished.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_N': Can't find file.
+[2021.05.27-10.52.55:307][569]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Polished.uasset: Failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2021.05.27-10.52.55:307][569]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Perlin_Noise_M.T_Perlin_Noise_M Referenced by MaterialExpressionTextureSample_18
+[2021.05.27-10.52.55:308][569]LogLinker: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Polished.uasset: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_M': Can't find file.
+[2021.05.27-10.52.55:309][569]LogMaterial: Display: Missing cached shader map for material M_Wood_Floor_Walnut_Polished, compiling. 
+[2021.05.27-10.52.55:309][569]LogMaterial: Warning: [AssetLog] C:\Users\CEDRIC\Desktop\UE4_Courses\ToonTank\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Polished.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.27-10.52.55:309][569]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.27-10.52.55:309][569]LogMaterial: Display: 	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+[2021.05.27-10.52.55:309][569]LogMaterial: Display: 	(Node TextureSample) Alpha is AO> Missing input texture
