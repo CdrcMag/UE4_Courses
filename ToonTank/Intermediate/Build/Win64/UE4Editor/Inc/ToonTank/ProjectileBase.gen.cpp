@@ -109,7 +109,9 @@ void EmptyLinkFunctionForGeneratedCodeProjectileBase() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_AProjectileBase_OnHit_Statics::Function_MetaDataParams[] = {
+		{ "Comment", "//FUNCTIONS\n" },
 		{ "ModuleRelativePath", "Actors/ProjectileBase.h" },
+		{ "ToolTip", "FUNCTIONS" },
 	};
 #endif
 	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_AProjectileBase_OnHit_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AProjectileBase, nullptr, "OnHit", nullptr, nullptr, sizeof(ProjectileBase_eventOnHit_Parms), Z_Construct_UFunction_AProjectileBase_OnHit_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_AProjectileBase_OnHit_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00C40401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_AProjectileBase_OnHit_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_AProjectileBase_OnHit_Statics::Function_MetaDataParams)) };
@@ -182,7 +184,7 @@ void EmptyLinkFunctionForGeneratedCodeProjectileBase() {}
 		(UObject* (*)())Z_Construct_UPackage__Script_ToonTank,
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_AProjectileBase_Statics::FuncInfo[] = {
-		{ &Z_Construct_UFunction_AProjectileBase_OnHit, "OnHit" }, // 1518827390
+		{ &Z_Construct_UFunction_AProjectileBase_OnHit, "OnHit" }, // 3951654818
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AProjectileBase_Statics::Class_MetaDataParams[] = {
@@ -194,8 +196,10 @@ void EmptyLinkFunctionForGeneratedCodeProjectileBase() {}
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AProjectileBase_Statics::NewProp_ProjectileMovement_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Components" },
+		{ "Comment", "//COMPONENTS\n" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "Actors/ProjectileBase.h" },
+		{ "ToolTip", "COMPONENTS" },
 	};
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AProjectileBase_Statics::NewProp_ProjectileMovement = { "ProjectileMovement", nullptr, (EPropertyFlags)0x00400000000a001d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AProjectileBase, ProjectileMovement), Z_Construct_UClass_UProjectileMovementComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AProjectileBase_Statics::NewProp_ProjectileMovement_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AProjectileBase_Statics::NewProp_ProjectileMovement_MetaData)) };
@@ -219,7 +223,9 @@ void EmptyLinkFunctionForGeneratedCodeProjectileBase() {}
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AProjectileBase_Statics::NewProp_MovementSpeed_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Movement" },
+		{ "Comment", "//VARIABLES\n" },
 		{ "ModuleRelativePath", "Actors/ProjectileBase.h" },
+		{ "ToolTip", "VARIABLES" },
 	};
 #endif
 	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AProjectileBase_Statics::NewProp_MovementSpeed = { "MovementSpeed", nullptr, (EPropertyFlags)0x0040000000000015, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AProjectileBase, MovementSpeed), METADATA_PARAMS(Z_Construct_UClass_AProjectileBase_Statics::NewProp_MovementSpeed_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AProjectileBase_Statics::NewProp_MovementSpeed_MetaData)) };
@@ -234,7 +240,9 @@ void EmptyLinkFunctionForGeneratedCodeProjectileBase() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AProjectileBase_Statics::NewProp_HitParticles_MetaData[] = {
 		{ "Category", "Effects" },
+		{ "Comment", "//EFFECTS\n" },
 		{ "ModuleRelativePath", "Actors/ProjectileBase.h" },
+		{ "ToolTip", "EFFECTS" },
 	};
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AProjectileBase_Statics::NewProp_HitParticles = { "HitParticles", nullptr, (EPropertyFlags)0x0040000000000001, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AProjectileBase, HitParticles), Z_Construct_UClass_UParticleSystem_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AProjectileBase_Statics::NewProp_HitParticles_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AProjectileBase_Statics::NewProp_HitParticles_MetaData)) };
@@ -307,7 +315,7 @@ void EmptyLinkFunctionForGeneratedCodeProjectileBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AProjectileBase, 195038436);
+	IMPLEMENT_CLASS(AProjectileBase, 3953551195);
 	template<> TOONTANK_API UClass* StaticClass<AProjectileBase>()
 	{
 		return AProjectileBase::StaticClass();

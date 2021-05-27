@@ -68,8 +68,10 @@ void EmptyLinkFunctionForGeneratedCodePawnTank() {}
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_APawnTank_Statics::NewProp_SpringArm_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Components" },
+		{ "Comment", "//COMPONENTS\n" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "Pawns/PawnTank.h" },
+		{ "ToolTip", "COMPONENTS" },
 	};
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_APawnTank_Statics::NewProp_SpringArm = { "SpringArm", nullptr, (EPropertyFlags)0x00400000000a001d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(APawnTank, SpringArm), Z_Construct_UClass_USpringArmComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_APawnTank_Statics::NewProp_SpringArm_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_APawnTank_Statics::NewProp_SpringArm_MetaData)) };
@@ -131,7 +133,7 @@ void EmptyLinkFunctionForGeneratedCodePawnTank() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(APawnTank, 1747341774);
+	IMPLEMENT_CLASS(APawnTank, 2242757410);
 	template<> TOONTANK_API UClass* StaticClass<APawnTank>()
 	{
 		return APawnTank::StaticClass();

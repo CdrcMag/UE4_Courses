@@ -16,6 +16,7 @@ class TOONTANK_API AProjectileBase : public AActor
 	
 private:
 
+	//COMPONENTS
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components", meta = (AllowPrivateAccess = "true"))
 	UProjectileMovementComponent* ProjectileMovement;
 
@@ -25,15 +26,21 @@ private:
 	UPROPERTY(EditDefaultsOnly, Category = "Components")
 	TSubclassOf<UDamageType> DamageType;
 
+
+	//VARIABLES
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Movement", meta = (AllowPrivateAccess = "true"))
 	float MovementSpeed = 1300;
 
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Damage", meta = (AllowPrivateAccess = "true"))
 	float Damage = 50;
 
+
+	//FUNCTIONS
 	UFUNCTION()
 	void OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, FVector NormalImpulse, const FHitResult& Hit);
 
+
+	//EFFECTS
 	UPROPERTY(EditAnywhere, Category = "Effects")
 	UParticleSystem* HitParticles;
 

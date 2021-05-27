@@ -20,11 +20,14 @@ class TOONTANK_API ATankGameModeBase : public AGameModeBase
 
 private: 
 
+	
 	int32 GetTargetTurretCount();
 	void HandleGameStart();
 	void HandleGameOver(bool PlayerWon);
 
 	APawnTank* PlayerTank;
+
+	//Tracker du nombre de tourelles actives
 	int32 TargetTurrets = 0;
 
 	APlayerControllerBase* PlayerControllerRef;

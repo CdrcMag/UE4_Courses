@@ -23,6 +23,7 @@ void APawnTurret::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
+    //Si la tourelle n'a pas récupéré la ref du joueur ou que celui ci est en dehors de la distance de detection
     if(!PlayerPawn || ReturnDistanceToPlayer() > turretRange)
     {
         return;

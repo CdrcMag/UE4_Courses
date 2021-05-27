@@ -17,12 +17,14 @@ class TOONTANK_API APawnTank : public APawnBase
 
 private:
 
+	//COMPONENTS
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components", meta = (AllowPrivateAccess = "true"))
 	USpringArmComponent* SpringArm;
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components", meta = (AllowPrivateAccess = "true"))
 	UCameraComponent* Camera;
 
+	//VARIABLES
 	FVector MoveDirection;
 	FQuat   RotationDirection;
 
@@ -35,6 +37,7 @@ private:
 	APlayerController* PlayerControllerRef;
 	bool bIsPlayerAlive = true;
 
+	//FUNCTIONS
 	void CalculateMoveInput(float value);
 	void CalculateRotationInput(float value);
 

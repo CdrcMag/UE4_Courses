@@ -5,6 +5,7 @@
 
 void APlayerControllerBase::SetPlayerEnabledState(bool SetPlayerEnabled)
 {
+    //Active ou désactive la capacité du joueur à se déplacer
     if(SetPlayerEnabled)
     {
         GetPawn()->EnableInput(this);
@@ -14,5 +15,6 @@ void APlayerControllerBase::SetPlayerEnabledState(bool SetPlayerEnabled)
         GetPawn()->DisableInput(this);
     }
 
+    //Lorsque le jeu se lance, le curseur devient visible
     bShowMouseCursor = SetPlayerEnabled;
 }

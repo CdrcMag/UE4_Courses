@@ -13,6 +13,7 @@ AProjectileBase::AProjectileBase()
  	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = false;
 
+	//COMPONENTS
 	ProjectileMesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("Projectile Mesh"));
 	ProjectileMesh->OnComponentHit.AddDynamic(this, &AProjectileBase::OnHit);
 	RootComponent = ProjectileMesh;
@@ -20,10 +21,14 @@ AProjectileBase::AProjectileBase()
 	ProjectileMovement = CreateDefaultSubobject<UProjectileMovementComponent>(TEXT("Projectile Movement"));
 	ProjectileMovement->InitialSpeed = MovementSpeed;
 	ProjectileMovement->MaxSpeed = MovementSpeed;
-	InitialLifeSpan = 3.0f;
 
 	ParticleTrail = CreateDefaultSubobject<UParticleSystemComponent>(TEXT("Particle Trail"));
 	ParticleTrail->SetupAttachment(RootComponent);
+
+	//VARIABLES
+	InitialLifeSpan = 3.0f;
+
+	
 
 
 }
@@ -33,6 +38,7 @@ void AProjectileBase::BeginPlay()
 {
 	Super::BeginPlay();
 
+	//A la création du projectile, un son de tir est joué
 	UGameplayStatics::PlaySoundAtLocation(this, LaunchSound, GetActorLocation());
 	
 }
@@ -45,10 +51,15 @@ void AProjectileBase::OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UP
 
 	if(OtherActor && OtherActor != this && OtherActor != MyOwner)
 	{
+		//Applique des dégâts à l'objet rencontré
 		UGameplayStatics::ApplyDamage(OtherActor, Damage, MyOwner->GetInstigatorController(), this, DamageType);
+
+		//Emet des particules, un son, et lance un camera shake
 		UGameplayStatics::SpawnEmitterAtLocation(this, HitParticles, GetActorLocation());
 		UGameplayStatics::PlaySoundAtLocation(this, HitSound, GetActorLocation());
 		GetWorld()->GetFirstPlayerController()->ClientStartCameraShake(HitShake);
+
+		//Detruit le projectile
 		Destroy();
 	}
 

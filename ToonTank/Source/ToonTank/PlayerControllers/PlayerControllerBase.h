@@ -16,6 +16,7 @@ class TOONTANK_API APlayerControllerBase : public APlayerController
 
 public:
 
+	//Méthode de gestion des inputs du joueur
 	void SetPlayerEnabledState(bool SetPlayerEnabled);
 	
 };

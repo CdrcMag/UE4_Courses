@@ -12,6 +12,7 @@ APawnBase::APawnBase()
  	// Set this pawn to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
+	//COMPONENTS
 	CapsuleComp = CreateDefaultSubobject<UCapsuleComponent>(TEXT("Capsule Collider"));
 	RootComponent = CapsuleComp;
 
@@ -30,6 +31,7 @@ APawnBase::APawnBase()
 
 void APawnBase::RotateTurret(FVector LookAtTarget)
 {
+	//Applique une rotation en Z au composant TurretMesh du pawn
 	FVector LookAtTargetCleaned = FVector(LookAtTarget.X, LookAtTarget.Y, TurretMesh->GetComponentLocation().Z);
 	FVector StartLocation = TurretMesh->GetComponentLocation();
 
@@ -54,9 +56,9 @@ void APawnBase::Fire()
 
 void APawnBase::HandleDestruction()
 {
+	//Effets
 	UGameplayStatics::SpawnEmitterAtLocation(this, DeathParticles, GetActorLocation());
 	UGameplayStatics::PlaySoundAtLocation(this, DeathSound, GetActorLocation());
-
 	GetWorld()->GetFirstPlayerController()->ClientStartCameraShake(DeathShake);
 
 }

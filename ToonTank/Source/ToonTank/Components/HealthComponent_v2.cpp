@@ -19,8 +19,13 @@ void UHealthComponent_v2::BeginPlay()
 {
 	Super::BeginPlay();
 
+	//Assigne à la vie actuelle la valeur par défaut (max)
 	Health = DefaultHealth;	
+
+	//Récupère la référence du game mode
 	GameModeRef = Cast<ATankGameModeBase>(UGameplayStatics::GetGameMode(GetWorld()));
+
+	//Assigne la méthode TakeDamage lorsque l'event OnTakeAnyDamage est triggered
 	GetOwner()->OnTakeAnyDamage.AddDynamic(this, &UHealthComponent_v2::TakeDamage);
 	
 }
@@ -34,7 +39,7 @@ void UHealthComponent_v2::TakeDamage(AActor* DamagedActor, float Damage, const U
 	}
 
 	Health = FMath::Clamp(Health - Damage, 0.0f, DefaultHealth);
-	UE_LOG(LogTemp, Warning, TEXT("HEALTH : %f"), Health);
+	//UE_LOG(LogTemp, Warning, TEXT("HEALTH : %f"), Health);
 
 
 	if(Health <= 0)

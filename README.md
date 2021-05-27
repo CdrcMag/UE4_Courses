@@ -29,3 +29,8 @@ https://youtu.be/HeNVKInO-Bc
 - Création d'un player controller
 - Phase de polissage (particules, sons, camera shake)
 - Création d'un niveau complet + vidéo
+
+Liens : 
+
+.h / .cpp :
+https://github.com/CdrcMag/UE4_Courses/tree/main/ToonTank/Source/ToonTank

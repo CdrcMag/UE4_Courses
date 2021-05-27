@@ -19,6 +19,7 @@ void APawnTank::BeginPlay()
 {
 	Super::BeginPlay();
 
+    //Référence du player controller
     PlayerControllerRef = Cast<APlayerController>(GetController());
 	
 }
@@ -28,6 +29,7 @@ void APawnTank::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
+    //Gère la rotation et le mouvement du joueur
     Rotate();
     Move();
 
@@ -84,6 +86,7 @@ void APawnTank::HandleDestruction()
 {
     Super::HandleDestruction();
     
+    //Gère la destruction du joueur
     bIsPlayerAlive = false;
     SetActorHiddenInGame(true);
     SetActorTickEnabled(false);
